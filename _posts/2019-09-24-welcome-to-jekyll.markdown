@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to KRSDigiArc!"
 date:   2019-09-24 18:11:44 +0300
 categories: jekyll update
 ---
