@@ -1,5 +1,6 @@
 ---
 layout: home
+lang: fi
 ---
 # Kiinteistönumeroittain
 <table>

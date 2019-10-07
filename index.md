@@ -1,8 +1,6 @@
 ---
 layout: home
+lang: sv
 title: home
 ---
-# KRSDigiArc
-
-## [Svenska](/sv/index)
-## [Finska](/fi/index)
+<img src="/images/vy.jpg" align="center" alt="vy" width="600"/>

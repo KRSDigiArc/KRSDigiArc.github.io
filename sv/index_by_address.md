@@ -1,13 +1,13 @@
 ---
 layout: home
 ---
-# Kvartersvis (stadsdelsvis?)
+# Enligt adress
 <table>
     {% assign sorted = (site.pages | sort: 'adress')  %}
     {% for sitepage in sorted %}
         {% if sitepage.layout == 'building' %}
-        <tr><th><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></th>
-        <th>{{ sitepage.adress }}</th>
+        <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+        <td>{{ sitepage.adress }}</td>
         </tr>
       {% endif %}
     {% endfor %}

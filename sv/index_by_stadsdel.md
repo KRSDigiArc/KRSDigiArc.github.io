@@ -11,8 +11,8 @@ layout: home
      {% if sitepage.layout == 'building' %}
        {% if sitepage.lang == 'sv' %}
           {% if sitepage.stadsdel == 1 %}
-            <tr><th><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></th>
-            <th>{{ sitepage.adress }}</th>
+            <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+            <td>{{ sitepage.adress }}</td>
             </tr>
           {% endif %}
        {% endif %}
@@ -28,8 +28,8 @@ layout: home
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'sv' %}
         {% if sitepage.stadsdel == 2 %}
-          <tr><th><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></th>
-          <th>{{ sitepage.adress }}</th>
+          <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+          <td>{{ sitepage.adress }}</td>
           </tr>
         {% endif %}
       {% endif %}
@@ -43,8 +43,8 @@ layout: home
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'sv' %}
         {% if sitepage.stadsdel == 3 %}
-          <tr><th><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></th>
-          <th>{{ sitepage.adress }}</th>
+          <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+          <td>{{ sitepage.adress }}</td>
           </tr>
         {% endif %}
       {% endif %}

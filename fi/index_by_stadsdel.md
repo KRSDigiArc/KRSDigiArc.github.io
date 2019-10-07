@@ -1,6 +1,6 @@
 ---
 layout: home
-lang
+lang: fi
 ---
 # Kaupunginosittain
 <table>
