@@ -1,7 +1,8 @@
 ---
 layout: home
+lang
 ---
-# Kvartersvis (stadsdelsvis?)
+# Kaupunginosittain
 <table>
     {% assign sorted = (site.pages | sort: 'adress')  %}
     {% for sitepage in sorted %}

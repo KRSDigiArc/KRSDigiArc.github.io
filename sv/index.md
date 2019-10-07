@@ -7,8 +7,6 @@ title: karta
 ---
 # KRSDigiArc
 
-![](../images/karta.png)
-
 ## [Sortering enligt fastighetsnummer](index_by_number)
 ## [Sortering enligt adress](index_by_address)
 ## [Sortering enligt stadsdelsvis](index_by_stadsdel)
