@@ -9,11 +9,11 @@ lang: fi
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'fi' %}
         {% if page.url == sitepage.url %} class="active"{% endif %}
-          <tr><th>
+          <tr><td>
           <a href="{{ sitepage.url }}">{{ sitepage.title }}</a>
-          </th><th>
+          </td><td>
           {{ sitepage.fastighetsnr }}
-          </th>
+          </td>
           </tr>
        {% endif %}
     {% endif %}
