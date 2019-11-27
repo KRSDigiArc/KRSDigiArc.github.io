@@ -1,11 +1,11 @@
 ---
 layout: building
 lang:   fi
-title:  122-12
+title:   Kapteeni Lagerstamin talo
 fastighetsnr: 287-1-122-12
 stadsdel: 1
-adress: Läntinen Pitkäkatu x
-anno:
+adress: Läntinen Pitkäkatu 26, Kissanpiiskaajankuja 8
+anno: 1884
 builtby:
 skydd:
 skydd67: A I, MA
