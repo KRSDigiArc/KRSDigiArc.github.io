@@ -51,3 +51,18 @@ layout: home
     {% endif %}
   {% endfor %}
 </table>
+
+<h2>Fjärde kvarteret</h2>
+<table>
+  {% for sitepage in sorted %}
+    {% if sitepage.layout == 'building' %}
+      {% if sitepage.lang == 'sv' %}
+        {% if sitepage.stadsdel == 4 %}
+          <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+          <td>{{ sitepage.adress }}</td>
+          </tr>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</table>
