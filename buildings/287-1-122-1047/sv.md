@@ -6,7 +6,7 @@ fastighetsnr: 287-1-122-1047
 nr1842: 47
 stadsdel: 1
 adress:
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:

@@ -5,7 +5,7 @@ title: Staffans
 fastighetsnr: 287-2-248-1132C
 stadsdel: 2
 adress: Itäinen Pitkäkatu x
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:

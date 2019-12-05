@@ -5,7 +5,7 @@ title:   Jims
 fastighetsnr: 287-2-248-1132D
 stadsdel: 1
 adress: Östra Långgatan
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:
@@ -21,4 +21,3 @@ skydd67:
 
 
 ## Ritningar
-

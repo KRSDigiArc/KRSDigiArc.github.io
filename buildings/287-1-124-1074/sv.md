@@ -5,7 +5,7 @@ title: template
 fastighetsnr:
 stadsdel:
 adress:
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:

@@ -5,7 +5,7 @@ title: template
 fastighetsnr: 287-1-122-5
 stadsdel: 1
 adress:
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:

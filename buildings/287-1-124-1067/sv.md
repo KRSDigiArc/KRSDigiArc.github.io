@@ -8,9 +8,28 @@ adress: Västra Långgatan 53
 anno: 1843
 skydd: AI,MA
 ---
+<img src="bild_2018.jpg" width="400px">
+## Gårdens historia
+Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 och Maria Holmudd. Huset utvidgades 1844 och bagarstugan byggdes till.
 
-## Historia
+## Ritningar
+<table>
+<tr>
+<td><h2>Muutospiirustus 1935</h2></td><td>
+<a href="andringsritning_1935.jpeg" rel="lightbox"><img src="andringsritning_1935.jpeg" title="piirrustus" width="200px"></a></td>
+</tr>
+</table>
 
-## Ändringsritningar
+## Byggnadsinventering <a href="/sources/keinanen_karki.pdf">v.1967</a>
+<a href="inventointikertomuksia">Inventointikertomuksia</a>
+1. Bostadshus knutskallar, lockläkt, byggt 1834 utvidgat 1844, valmat tak. AI,MA brandförsäkring 4931 OM
+2. Bostadshus med knutskallar, före detta bagarstuga, lockläkt, byggt 1843, sadeltak. A
+3. Uthus med knutskallar, delvis reglad, stående panel, sadeltak. B
+4. Skjul, stående panel. B
 
-## Byggnader
+
+## Läget idag
+Byggnaderna som år 1967
+
+## Mänskor och händelser
+Israel och Maria hade en dotter Emelie och drängen Carl samt pigan Maria. Maria blev änka 1862 och på 1870 talet började man ta hyresgäster till det stora huset, bl.a. Fiskaren Ingström och förre brandvakten Karl Their, och huset övergick till släkten Weckströms ägo. Fyra generationer Weckström kom att bo i huset.

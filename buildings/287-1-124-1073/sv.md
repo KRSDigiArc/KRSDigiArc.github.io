@@ -1,16 +1,16 @@
 ---
 layout: building
 lang: sv
-title: template
-fastighetsnr:
-stadsdel:
-adress:
-anno:
+title: dfdsfds
+fastighetsnr: 287-1-124-1073
+gardsnr1842: 73
+fastighetsnrKeinanen: I/24/73
+stadsdel: 1
+adress: Aitakatu 32
+anno: 1800
 builtby:
 brandforsakring:
 skydd:
-skydd67:
-
 ---
 ## Gårdens Historia
 

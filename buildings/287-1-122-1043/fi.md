@@ -5,9 +5,9 @@ title: template
 fastighetsnr: 287-1-122-1043
 fastighetsnr67: I/22/8
 nr1842: 42
-stadsdel:1
+stadsdel: 1
 adress: Läntinen pitkäkatu 30
-anno:
+anno: 0
 builtby:
 brandforsakring:
 skydd:

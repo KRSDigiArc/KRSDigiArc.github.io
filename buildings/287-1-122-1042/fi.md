@@ -5,8 +5,8 @@ title: template
 fastighetsnr: 287-1-122-1042
 nr1842: 42
 stadsdel: 1
-adress:
-anno:
+adress: a
+anno: 0
 builtby:
 brandforsakring:
 skydd:

@@ -1,8 +1,10 @@
 ---
 layout: building
-lang:
+lang: fi
 title: template
 fastighetsnr:
+gardsnr1842:
+fastighetsnrKeinanen:
 stadsdel:
 adress:
 anno:
@@ -10,8 +12,8 @@ builtby:
 brandforsakring:
 skydd:
 skydd67:
-
 ---
+
 ## Talon Historia
 
 
