@@ -50,3 +50,18 @@ lang: fi
     {% endif %}
   {% endfor %}
 </table>
+
+<h2>Neljäs kaupunginosa</h2>
+<table>
+  {% for sitepage in sorted %}
+    {% if sitepage.layout == 'building' %}
+      {% if sitepage.lang == 'fi' %}
+        {% if sitepage.stadsdel == 4 %}
+          <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
+          <td>{{ sitepage.adress }}</td>
+          </tr>
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</table>
