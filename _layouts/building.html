@@ -2,8 +2,25 @@
 {% include main.html %}
 
 <div class="main">
-      <h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
       {{ content }}
-    </div>
-  </body>
+
+  <table>
+    <tr>
+      <th>Fastighets nr.</th>
+      <th>Fastighets nr. 1842</th>
+      <th>Byggnadsår</th>
+      <th>Skyddsklass</th>
+      <th>Adress</th>
+    </tr>
+    <tr>
+      <td>{{ page.fastighetsnr }}</td>
+      <td>{{ page.gardsnr1842 }}</td>
+      <td>{{ page.anno }}</td>
+      <td>{{ page.skydd }}</td>
+      <td>{{ page.adress }}</td>
+    </tr>
+  </table>
+</div>
+</body>
 </html>
