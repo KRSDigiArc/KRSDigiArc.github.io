@@ -1,17 +1,17 @@
 ---
 layout: building
 lang: sv
-title: template
+title: Staketgatan 34
 fastighetsnr: 287-1-124-1072
-gardsnr1842:
+gardsnr1842: 72
 fastighetsnrKeinanen: I/24/72
 stadsdel: 1
 adress: Staketgatan 34
-anno: 0
+anno: 9999
 builtby:
 brandforsakring:
-skydd:
-skydd67:
+skydd: no
+skydd67: AI
 ---
 ## Gårdens Historia
 
@@ -24,6 +24,9 @@ skydd67:
 
 
 ## Situationen i dag
+1. eller 2. Rivet andra bostadshuset kvar? (fasaden fördärvad)
+3. Bevarat?
+4. Bevarat?
 
 
 ## Ritningar

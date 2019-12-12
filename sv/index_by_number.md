@@ -3,7 +3,7 @@ layout: home
 ---
 # Enligt fastighetsnummer
 <table>
-  {% assign sitepages = site.pages | sort: 'order' %}
+  {% assign sitepages = site.pages | sort: 'fastighetsnr' %}
   {% for sitepage in sitepages %}
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'sv' %}

@@ -10,7 +10,8 @@ adress: Aitakatu 34
 anno: 0
 builtby:
 brandforsakring:
-skydd:
+skydd:   no
+skydd67: AI
 ---
 ## Talon Historia
 
@@ -22,6 +23,8 @@ skydd:
 4. Peiterimalaudoitettu ulkorakennus B
 
 ## Nykytila
-
+1. tai 2. purettu, toinen säilynyt? (julkisivu turmeltu)
+2. Säilynyt?
+3. Säilynyt?
 
 ## Piirustukset

@@ -10,7 +10,7 @@ adress: Läntinen Pitkäkatu 53
 anno: 1834
 builtby: Holmudd, Israel
 brandforsakring: 4931
-skydd: SR
+skydd: SR, SR
 skydd67: AI
 ---
 

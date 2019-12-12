@@ -3,11 +3,15 @@ layout: building
 lang:   sv
 title:   Weckströmska gården
 fastighetsnr: 287-1-124-1067
+fastighetsnrKeinanen: I/24/6
+gardsnr1842: 67
 stadsdel: 1
 adress: Västra Långgatan 53
 anno: 1843
-skydd: AI,MA
+skydd: SR, SR
+skydd67: AI,MA
 ---
+
 <img src="bild_2018.jpg" width="400px">
 ## Gårdens historia
 Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 och Maria Holmudd. Huset utvidgades 1844 och bagarstugan byggdes till.
@@ -22,10 +26,10 @@ Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="ligh
 
 ## Byggnadsinventering <a href="/sources/keinanen_karki.pdf">v.1967</a>
 <a href="inventointikertomuksia">Inventointikertomuksia</a>
-1. Bostadshus knutskallar, lockläkt, byggt 1834 utvidgat 1844, valmat tak. AI,MA brandförsäkring 4931 OM
+1. Bostadshus med knutskallar, lockläkt, byggt 1834 utvidgat 1844, valmat tak. AI,MA brandförsäkring 4931 OM
 2. Bostadshus med knutskallar, före detta bagarstuga, lockläkt, byggt 1843, sadeltak. A
 3. Uthus med knutskallar, delvis reglad, stående panel, sadeltak. B
-4. Skjul, stående panel. B
+4. Skjul, reglat. B
 
 
 ## Läget idag
