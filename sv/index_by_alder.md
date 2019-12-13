@@ -1,5 +1,6 @@
 ---
 layout: home
+lang: sv
 ---
 # Enligt ålder
 <table>
