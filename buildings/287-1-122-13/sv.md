@@ -1,25 +1,27 @@
 ---
 layout: building
 lang: sv
-title: template
+title: Västrat Långgatan 26B
 fastighetsnr: 287-1-122-13
+fastighetsnrKeinanen: I/22/10
 nr1842: 48
-stadsdel:
-adress:
-anno: 0
+stadsdel: 1
+adress: Västra Långgatan 26B
+anno: 1820
 builtby:
 brandforsakring:
-skydd:
-skydd67:
-
+skydd: SR
+skydd67: A
 ---
-## Gårdens Historia
+<img src="streetview2009.png" width="400px">
 
+## Gårdens Historia
+Gård 48 har spjälkts upp i fastigheterna 122-13 och 122-12, Västra Långgatan 26 A o B.
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
+1. Pitkänurkkainen asuinrakennus, runko-osa rakennettu 1820, vinkkeli myöhäisempi, runko-osassa peiterimalaudoitus, vinkkeliosassa sekundaarinen kapea peiterimalaudoitus, satulakatto. A, MA
+2. Pitkänurkkainen ulkorakennus, peiterimalaudoitus, satulakatto. B
 
-
-## Situationen i dag
-
+## Situationen idag
 
 ## Ritningar

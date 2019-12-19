@@ -7,7 +7,7 @@ gardsnr1842: 73
 fastighetsnrKeinanen: I/24/73
 stadsdel: 1
 adress: Aitakatu 32
-anno: 1899,9
+anno: 1899.9
 builtby:
 brandforsakring:
 skydd:

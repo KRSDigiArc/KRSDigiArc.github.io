@@ -5,7 +5,7 @@ title: Jims
 fastighetsnr: 287-2-248-1132D
 stadsdel: 2
 adress: Itäinen Pitkäkatu x
-anno: 0
+anno: 9999
 builtby:
 brandforsakring:
 skydd:

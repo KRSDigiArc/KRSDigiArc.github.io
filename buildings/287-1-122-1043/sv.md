@@ -7,7 +7,7 @@ fastighetsnr67: I/22/8
 nr1842: 42
 stadsdel: 1
 adress: Västra Långgatan 30
-anno: 0
+anno: 9999
 builtby:
 brandforsakring:
 skydd:

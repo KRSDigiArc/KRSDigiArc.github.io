@@ -6,13 +6,14 @@ fastighetsnr: 287-1-122-1047
 nr1842: 47
 stadsdel: 1
 adress: Läntinen Pitkäkatu 28
-anno: 0
+anno: 1899.9
 builtby:
 brandforsakring:
 skydd:
 skydd67:
-
 ---
+<img src="streetview2009.png" width="400px">
+
 ## Talon Historia
 
 

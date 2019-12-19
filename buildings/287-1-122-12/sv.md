@@ -3,6 +3,7 @@ layout: building
 lang:   sv
 title:  Kapten Lagerstams hus
 fastighetsnr: 287-1-122-12
+nr1842: 48
 stadsdel: 1
 adress: Västra Långgatan 26, Kattpiskargränden 26
 anno: 1884
@@ -11,6 +12,8 @@ brandforskaring:
 skydd:
 skydd67:
 ---
+
+
 ## Gårdens Historia
 
 

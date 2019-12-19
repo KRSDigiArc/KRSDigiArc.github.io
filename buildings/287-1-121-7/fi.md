@@ -7,7 +7,7 @@ gardsnr1842: 7
 fastighetsnrKeinanen: I/21/1
 stadsdel: 1
 adress: Itäinenpitkäkatu 76, Rantakatu 75
-anno:
+anno: 9999
 builtby:
 brandforsakring:
 skydd:

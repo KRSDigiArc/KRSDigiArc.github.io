@@ -7,7 +7,7 @@ fastighetsnrKeinanen: I/24/10
 gardsnr1842: 71
 stadsdel: 1
 adress: Aitakatu 36
-anno: 1899,9
+anno: 1899.9
 builtby:
 brandforsakring:
 skydd: SR

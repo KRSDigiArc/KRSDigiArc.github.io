@@ -7,13 +7,14 @@ fastighetsnrKeinanen: I/22/9
 gardsnr1842: 47
 stadsdel: 1
 adress: Västra Långgatan 28
-anno: 0
+anno: 1899.9
 builtby:
 brandforsakring:
 skydd:
-skydd67:AI
-
+skydd67: AI, B
 ---
+<img src="streetview2009.png" width="400px">
+
 ## Gårdens Historia
 
 

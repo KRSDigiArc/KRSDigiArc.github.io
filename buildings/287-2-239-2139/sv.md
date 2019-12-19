@@ -1,7 +1,7 @@
 ---
 layout: building
 lang: sv
-title: template
+title: Västra Långgatan 19
 fastighetsnr: 287-2-239-2139
 gardsnr1842: 111
 stadsdel: 2

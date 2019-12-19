@@ -5,7 +5,7 @@ title: Staffans
 fastighetsnr: 287-2-248-1132C
 stadsdel: 2
 adress:
-anno: 0
+anno: 9999
 builtby:
 brandforsakring:
 skydd:

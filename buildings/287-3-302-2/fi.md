@@ -7,7 +7,7 @@ gardsnr1842:
 fastighetsnrKeinanen:
 stadsdel: 3
 adress: Lapväärtintie
-anno:
+anno: 9999
 builtby:
 brandforsakring:
 skydd:

@@ -7,7 +7,7 @@ gardsnr1842: 72
 fastighetsnrKeinanen: I/24/72
 stadsdel: 1
 adress: Aitakatu 34
-anno: 0
+anno: 9999
 builtby:
 brandforsakring:
 skydd:   no

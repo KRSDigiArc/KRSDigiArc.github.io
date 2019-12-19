@@ -6,7 +6,7 @@ fastighetsnr: 287-1-122-1046
 gardsnr1842: 46
 stadsdel: 1
 adress: Västra Långgatan 32
-anno: 1899,9
+anno: 1899.9
 builtby:
 brandforsakring:
 skydd: SR, SR
