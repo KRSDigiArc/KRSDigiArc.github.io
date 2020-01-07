@@ -1,7 +1,7 @@
 ---
 layout: building
 lang: sv
-title: template
+title: Västra Långgatan 28
 fastighetsnr: 287-1-122-1047
 fastighetsnrKeinanen: I/22/9
 gardsnr1842: 47

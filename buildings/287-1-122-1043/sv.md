@@ -1,7 +1,7 @@
 ---
 layout: building
 lang: sv
-title: template
+title: Västra Långgatan 30
 fastighetsnr: 287-1-122-1043
 fastighetsnr67: I/22/8
 nr1842: 42

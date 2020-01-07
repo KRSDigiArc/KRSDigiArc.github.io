@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Kvartersvis (stadsdelsvis?)
+# Kvartersvis (stadsdelsvis)
 
 
 <h2>Första kvarteret</h2>
