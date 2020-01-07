@@ -11,7 +11,7 @@ anno: 1819
 builtby:
 brandforsakring: 1819
 skydd: SR
-skydd67: skydd67: AII, C, B, A, A, B, C
+skydd67: AII, C, B, A, A, B, C
 www:
 ---
 ## Gårdens Historia

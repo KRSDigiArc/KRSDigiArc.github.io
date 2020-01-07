@@ -4,7 +4,7 @@ lang: sv
 ---
 # Enligt ålder
 <table>
-    {% assign sorted = (site.pages | sort: 'anno')  %}
+    {% assign sorted = site.pages | sort: 'anno'  %}
     {% for sitepage in sorted %}
         {% if sitepage.layout == 'building' %}
           {% if sitepage.lang == 'sv' %}

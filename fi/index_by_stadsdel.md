@@ -5,7 +5,7 @@ lang: fi
 # Kaupunginosittain
 <h2>Ensimmäinen kaupunginosa</h2>
 <table>
-   {% assign sorted = (site.pages | sort: 'adress')  %}
+   {% assign sorted = site.pages | sort: 'adress' %}
    {% for sitepage in sorted %}
      {% if sitepage.layout == 'building' %}
        {% if sitepage.lang == 'fi' %}
@@ -22,7 +22,7 @@ lang: fi
 
 <h2>Toinen kaupunginosa</h2>
 <table>
-  {% assign sorted = (site.pages | sort: 'adress')  %}
+  {% assign sorted = site.pages | sort: 'adress'  %}
   {% for sitepage in sorted %}
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'fi' %}

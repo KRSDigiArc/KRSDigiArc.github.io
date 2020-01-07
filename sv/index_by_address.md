@@ -3,7 +3,7 @@ layout: home
 ---
 # Enligt adress
 <table>
-    {% assign sorted = (site.pages | sort: 'adress')  %}
+    {% assign sorted = site.pages | sort: 'adress'  %}
     {% for sitepage in sorted %}
         {% if sitepage.layout == 'building' %}
           {% if sitepage.lang == 'sv' %}

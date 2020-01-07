@@ -4,7 +4,7 @@ lang: fi
 ---
 # Kiinteistönumeroittain
 <table>
-  {% assign sitepages = (site.pages | sort: 'fastighetsnr') %}
+  {% assign sitepages = site.pages | sort: 'fastighetsnr' %}
   {% for sitepage in sitepages %}
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'fi' %}

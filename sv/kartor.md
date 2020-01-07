@@ -4,7 +4,7 @@ lang: sv
 ---
 # Stadskartor
 <table>
-  {% assign sitepages = (site.pages | sort: 'utgiven') %}
+  {% assign sitepages = site.pages | sort: 'utgiven' %}
     {% for sitepage in sitepages %}
         {% if sitepage.asset == 'map' %}
            <tr>

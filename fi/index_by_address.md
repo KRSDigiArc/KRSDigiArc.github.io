@@ -4,7 +4,7 @@ lang: fi
 ---
 # Osoitteen mukaan
 <table>
-    {% assign sorted = (site.pages | sort: 'adress')  %}
+    {% assign sorted = site.pages | sort: 'adress'  %}
     {% for sitepage in sorted %}
         {% if sitepage.layout == 'building' %}
         {% if sitepage.lang == 'fi' %}

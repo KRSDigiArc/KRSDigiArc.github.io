@@ -6,7 +6,7 @@ layout: home
 
 <h2>Första kvarteret</h2>
 <table>
-   {% assign sorted = (site.pages | sort: 'adress')  %}
+   {% assign sorted = site.pages | sort: 'adress'  %}
    {% for sitepage in sorted %}
      {% if sitepage.layout == 'building' %}
        {% if sitepage.lang == 'sv' %}
@@ -23,7 +23,7 @@ layout: home
 
 <h2>Andra kvarteret</h2>
 <table>
-  {% assign sorted = (site.pages | sort: 'adress')  %}
+  {% assign sorted = site.pages | sort: 'adress'  %}
   {% for sitepage in sorted %}
     {% if sitepage.layout == 'building' %}
       {% if sitepage.lang == 'sv' %}
