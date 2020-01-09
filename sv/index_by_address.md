@@ -7,9 +7,14 @@ layout: home
     {% for sitepage in sorted %}
         {% if sitepage.layout == 'building' %}
           {% if sitepage.lang == 'sv' %}
-            <tr><td><a href="{{ sitepage.url }}">{{ sitepage.title }}</a></td>
-            <td>{{ sitepage.adress }}</td>
-            </tr>
+           <tr>
+             <td>
+               {{ sitepage.adress }}
+             </td>
+             <td>
+               <a href="{{ sitepage.url }}">{{ sitepage.title }}</a>
+             </td>
+           </tr>
           {% endif %}
         {% endif %}
     {% endfor %}
