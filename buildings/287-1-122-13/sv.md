@@ -4,7 +4,7 @@ lang: sv
 title: Västrat Långgatan 26B
 fastighetsnr: 287-1-122-13
 fastighetsnrKeinanen: I/22/10
-nr1842: 48
+gardsnr1842: 48
 stadsdel: 1
 adress: Västra Långgatan 26B
 anno: 1820
@@ -12,8 +12,9 @@ builtby:
 brandforsakring:
 skydd: SR
 skydd67: A
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
 
 ## Gårdens Historia
 Gård 48 har spjälkts upp i fastigheterna 122-13 och 122-12, Västra Långgatan 26 A o B.

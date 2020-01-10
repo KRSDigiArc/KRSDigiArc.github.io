@@ -12,11 +12,10 @@ builtby:
 brandforsakring: 10479
 skydd: SR, SR
 skydd67: B
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<table>
-<tr><td><img src="streetview2009.png" width="400px"></td>
-<td><img src="streetview2009_south.png" width="400px"></td></tr>
-</table>
+<img src="streetview2009_south.png" width="400px">
 
 ## Gårdens Historia
 

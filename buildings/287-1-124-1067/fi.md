@@ -12,10 +12,15 @@ builtby: Holmudd, Israel
 brandforsakring: 4931
 skydd: SR, SR
 skydd67: AI
+img: bild_2018.jpg
+img_caption: 2019
+www: https://gard67.blogspot.com/
+img_caption:
+instagram: gard_67
+facebook:  gard67
 ---
 
 
-<img src="bild_2018.jpg" width="400px">
 ## Talon Historia
 Talon rakennutti laivuri <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 ja Maria Holmudd. Heillä oli tytär Emelie ja renki Carl sekä piika Maria. Maria jäi leskeksi 1862 ja 1870 luvulla suureen taloon aletiin ottaa vuokralaisia, mm. Kalastaja Ingström ja entinen palovahti Karl Their, ja talo siirtyi Weckströmin suvun omistukseen.
 

@@ -3,24 +3,44 @@
 
 <div class="main">
   <h1>{{ page.title }}</h1>
-      {{ content }}
-
-  <table>
+    <table>
     <tr>
-      <th>Fastighets nr.</th>
-      <th>Fastighets nr. 1842</th>
-      <th>Byggnadsår</th>
-      <th>Skyddsklass</th>
-      <th>Adress</th>
-    </tr>
-    <tr>
-      <td>{{ page.fastighetsnr }}</td>
-      <td>{{ page.gardsnr1842 }}</td>
-      <td>{{ page.anno }}</td>
-      <td>{{ page.skydd }}</td>
-      <td>{{ page.adress }}</td>
+      <td>
+        <table cellpadding="0" cellspacing="0">
+          <tr><td><img src="{{ page.img }}" width="400px"> </td></tr>
+          <tr><td><p style="font-size:10px">{{ page.img_caption }} </p></td></tr>
+        </table>
+      <td>
+        <table>
+          <tr> <th>Fastighets nr.</th> <td>{{ page.fastighetsnr }}</td> </tr>
+          <tr> <th>Gårdsnr. 1842</th> <td>{{ page.gardsnr1842 }}</td> </tr>
+          {% if page.anno == 1899.9 %}
+          <tr> <th>Byggnadsår</th> <td>1800-tal</td> </tr>
+          {% elsif page.anno == 9999 %}
+          <tr> <th>Byggnadsår</th> <td>-</td> </tr>
+          {% else %}
+          <tr> <th>Byggnadsår</th> <td>{{ page.anno }}</td> </tr>
+          {% endif %}
+          <tr> <th>Uppfört av</th> <td>{{ page.builtby }}</td> </tr>
+          <tr> <th>Skyddsklass</th> <td>{{ page.skydd }}</td> </tr>
+          <tr> <th>Brandförsäkr.</th> <td>{{ page.brandforsakring }}</td> </tr>
+          <tr> <th>Adress</th> <td><a href="https://maps.google.com/?q={{ page.adress }}, Kristinestad"> {{ page.adress }}</a></td> </tr>
+          {% if page.instagram %}
+          <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
+          {% endif %}
+          {% if page.facebook %}
+          <tr> <th>Facebook <img src="/img/facebook.png" width="20px"></th> <td><a href="https://www.facebook.com/{{ page.facebook }}"> {{ page.facebook }}</a></td> </tr>
+          {% endif %}
+          {% if page.www %}
+          <tr> <th>www <img src="/img/www.gif" width="20px"></th> <td><a href="{{ page.www }}"> {{ page.www }}</a></td> </tr>
+          {% endif %}
+        </table>
+      </td>
     </tr>
   </table>
+
+      {{ content }}
+
 </div>
 </body>
 </html>

@@ -12,9 +12,9 @@ builtby:
 brandforsakring:
 skydd: SR, SR, SR
 skydd67: AI, A, A
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
-
 ## Talon Historia
 Päärakennus kadun varrella (rakennus 1) on rakennettu vuonna 1864 tuvan seinässä (levytyksen alla) olevan kaiverruksen mukaan.
 Rakennus 2 on rakennettu joskus 1900-1920. Vuoden 1920 ilmakuvassa rakennus näkyy.

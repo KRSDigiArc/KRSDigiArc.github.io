@@ -11,9 +11,9 @@ builtby:
 brandforsakring:
 skydd: SR, SR
 skydd67: A
+img: streetview.png
+img_caption: Google Streetview 2009
 ---
-
-<img src="streetview.png" width="400px">
 
 ## Gårdens Historia
 

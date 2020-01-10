@@ -11,8 +11,10 @@ brandforsakring:
 skydd:
 skydd67:
 revs: 11.2019
+revsav: Esa Itälaakso
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
 
 ## Gårdens Historia
 

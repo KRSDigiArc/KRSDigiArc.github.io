@@ -13,8 +13,9 @@ brandforsakring:
 skydd:
 skydd67:
 revs: 2015
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="46933659_10218871423879979_1409085478832963584_n.jpg" width="400px">
 
 ## Talon Historia
 
@@ -24,5 +25,13 @@ revs: 2015
 
 ## Nykytila
 Talo purettiin 27.04.2015
+
+"    Kiista entisen Juuselan talon tulevaisuudesta päättyi maanantaina. Näkyvällä paikalla Kristiinankaupungissa ollut rakennus revittiin aamulla maan tasalle.
+Rakennustarkastaja Ari-Johan Myllyniemi kuuli purkamisesta vasta kahvipöydässä, kun työ oli jo käynnissä.
+– Tämä oli täysi yllätys. Aikanaan myönnetty purkulupa on voimassa, mutta ilmoitus purkutyön aloittamisesta olisi pitänyt tehdä, Myllyniemi sanoo." (Suupohjan Sanomat 29.4.2015)
+
+"Purkuluvan jo viime vuonna saaneen Kristiinankaupungissa sijaitsevan jugendtyylisen Juuselan talon kohtalo ratkennee vasta ensi vuonna.Lopullisen päätöksen tekevä Etelä-Pohjanmaan ely-keskus asetti rakennuksen vaarantamiskieltoon tiistaina. Eräiden tietojen mukaan purkamisen piti alkaa keskiviikkona.
+
+Liikenneviraston nykyään omistaman talon suojelemista on pitkään vaatinut Kristiina-seura ry, joka pitää rakennusta arvokkaana kaupunkimaiseman komistuksena. Pohjanmaan museon tutkija Kaj Höglund on myös sitä mieltä, että talo on säilyttämisen arvoinen" (Suupohjan Sanomat 14.11.).
 
 ## Piirustukset

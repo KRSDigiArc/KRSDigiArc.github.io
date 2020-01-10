@@ -4,7 +4,7 @@ lang: sv
 title: Kaptenskans hus
 fastighetsnr: 287-1-122-1042
 fastighetsnrKeinanen: I/22/2
-nr1842: 42
+gardsnr1842: 42
 stadsdel: 1
 adress: Östra Långgatan 71
 anno: 1852
@@ -12,9 +12,9 @@ builtby: Sjökapten J.G.Parman
 brandforsakring:
 skydd: SR, SR
 skydd67: A, A
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
-
 ## Gårdens Historia
 
 

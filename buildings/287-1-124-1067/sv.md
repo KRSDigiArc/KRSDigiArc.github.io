@@ -10,9 +10,13 @@ adress: Västra Långgatan 53
 anno: 1843
 skydd: SR, SR
 skydd67: AI,MA
+img: bild_2018.jpg
+www: https://gard67.blogspot.com/
+img_caption:
+instagram: gard_67
+facebook:  gard67
 ---
 
-<img src="bild_2018.jpg" width="400px">
 ## Gårdens historia
 Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 och Maria Holmudd. Huset utvidgades 1844 och bagarstugan byggdes till.
 

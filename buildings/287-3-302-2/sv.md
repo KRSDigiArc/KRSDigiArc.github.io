@@ -11,9 +11,9 @@ brandforsakring:
 skydd:
 skydd67:
 revs: 2015
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="46933659_10218871423879979_1409085478832963584_n.jpg" width="400px">
-
 ## Gårdens Historia
 
 

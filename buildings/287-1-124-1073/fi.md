@@ -11,9 +11,11 @@ anno: 1899.9
 builtby:
 brandforsakring:
 skydd:
+img: streetview2009.png
+img_caption: Google Streetview 2009
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
-
 ## Talon Historia
 
 

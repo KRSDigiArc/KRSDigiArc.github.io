@@ -12,8 +12,9 @@ builtby:
 brandforsakring:
 skydd: SR, SR, SR
 skydd67: AI, A, A
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
-<img src="streetview2009.png" width="400px">
 
 ## Gårdens Historia
 Päärakennus kadun varrella (rakennus 1) on rakennettu vuonna 1864 tuvan seinässä (levytyksen alla) olevan kaiverruksen mukaan.
