@@ -7,11 +7,11 @@ h1,h2,h3,h4,h5,h6 {
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     #font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-size: 16px
+    font-size: 14px
 }
 
-.topnav {
-    height: 250px;
+.topbar {
+    height: 230px;
     width: 100%;
     position: fixed;
     background-color: #d3cab2;
@@ -19,39 +19,4 @@ body {
     top: 0;
 }
 
-.sidenav {
-    height: 100%;
-    width: 250px;
-    margin-top: 250px;
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    color: #818181;
-    background-color: #111;
-    overflow-x: hidden;
-    padding-top: 20px;
-}
-
-.sidenav a {
-    padding: 6px 6px 6px 32px;
-    text-decoration: none;
-    font-size: 16px;
-    color: #818181;
-    display: block;
-}
-
-.sidenav a:hover {
-    color: #f1f1f1;
-}
-
-.main {
-    margin-left: 250px; /* Same as the width of the sidenav */
-    margin-top: 230px;
-
-}
-
-@media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-}
+.krs-brown,.krs-hover-brown:hover{color:#000!important;background-color:#d3cab2!important}

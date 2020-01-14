@@ -7,8 +7,9 @@
     <title>KRSDigiArc</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-    <link href="/css/main.css" rel="stylesheet">
 
+    <link href="/css/w3.css" rel="stylesheet">
+    <link href="/css/main.css" rel="stylesheet">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-957916-3"></script>
@@ -18,23 +19,36 @@
       gtag('js', new Date());
       gtag('config', 'UA-957916-3');
     </script>
+    <script>
+      function w3_open() {
+          document.getElementById("mySidebar").style.display = "block";
+      }
 
-    <br>
-
+      function w3_close() {
+          document.getElementById("mySidebar").style.display = "none";
+      }
+    </script>
   </head>
   <body>
     {% include script.html %}
-    <div class="topnav">
+    <div class="topbar">
       <table border="0" cellspacing="0">
-        <hr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="230"></td>
-        <td><img src="/images/karta.png" alt="karta" height="230px"></td>
+        <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="230px"></td>
+          <td><img src="/images/karta.png" alt="karta" height="230px"></td>
+          </tr>
       </table>
     </div>
-
-    <div class="sidenav">
+    <div class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left w3-black w3-text-white" style="width:250px;left:0;top:230px" id="mySidebar">
+      <button class="w3-bar-item w3-button w3-large w3-hide-large w3-button-black" onclick="w3_close()">Close &times;</button>
       {% if page.lang == "fi" %}
       {% include /fi/sidenav.html %}
       {% else %}
       {% include /sv/sidenav.html %}
       {% endif %}
     </div>
+
+    <div class="w3-main" style="margin-left:250px;margin-top:230px">
+      <div class="w3-teal">
+        <button class="w3-button w3-teal w3-xlarge w3-left w3-hide-large" onclick="w3_open()">&#9776;</button>
+      </div>
+      <div class="w3-container">
