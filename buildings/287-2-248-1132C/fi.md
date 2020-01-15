@@ -3,9 +3,10 @@ layout: building
 lang:   fi
 title: Staffans
 fastighetsnr: 287-2-248-1132C
+gardsnr1842: 132
 stadsdel: 2
-adress: Itäinen Pitkäkatu x
-anno: 9999
+adress: Strandgatan 37
+anno: 1873
 builtby:
 brandforsakring:
 skydd:

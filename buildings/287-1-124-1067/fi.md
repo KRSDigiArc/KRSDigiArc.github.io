@@ -12,17 +12,17 @@ builtby: Holmudd, Israel
 skydd: SR, SR
 skydd67: AI,MA
 img: bild_2018.jpg
+img_caption:
 brandforsakring: 4931
 www: https://gard67.blogspot.com/
-img_caption:
 instagram: gard_67
 facebook:  gard67
 ---
 
-## Talon Historia
+### Talon Historia
 Talon rakennutti laivuri <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 ja Maria Holmudd. Heillä oli tytär Emelie ja renki Carl sekä piika Maria. Maria jäi leskeksi 1862 ja 1870 luvulla suureen taloon aletiin ottaa vuokralaisia, mm. Kalastaja Ingström ja entinen palovahti Karl Their, ja talo siirtyi Weckströmin suvun omistukseen.
 
-## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
+### Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
 o<a href="inventointikertomuksia">Inventointikertomuksia</a>
 
 1. Pitkänurkkainen asuinrakennus, peiterimalaudoitus, rakennettu 1834 ja lisärakennuettu 1844, aumakatto. AI,MA pvk. 4931 invent.kert. OM
@@ -30,7 +30,7 @@ o<a href="inventointikertomuksia">Inventointikertomuksia</a>
 3. Pitkänurkkainen ulkorakennus, osittain lautaa, pystylaudoitus, satulakatto. B
 4. Vaja, pystylaudoitus. B
 
-## Nykytila
+### Nykytila
 Sama kuin vuonna 1967
 
 ## Piirustukset

@@ -56,7 +56,7 @@ Byggnaderna som år 1967
   <tr>
     <td><table>
       <tr><td><b>1935</b></td></tr>
-      <tr><td>Den största förändringen skedde 1935 då huset byggdes om till hela fem lägenheter från att ha haft två kök innan. Farstukvist byggs till i norra gaveln. Den öppna verandan i söder byggs in.</td></tr>
+      <tr><td>En stor förändring skedde 1935 då huset byggdes om till hela fem lägenheter från att ha haft två kök innan. Farstukvist byggs till i norra gaveln. Den öppna verandan i söder byggs in.</td></tr>
     </table></td>
     <td>
       <a href="andringsritning_1935.jpeg" rel="lightbox"><img src="andringsritning_1935.jpeg" title="piirrustus" width="200px"></a>
@@ -75,7 +75,7 @@ Byggnaderna som år 1967
 </table>
 
 ## Mänskor och händelser
-Israel och Maria hade en dotter Emelie och drängen Carl samt pigan Maria. Maria blev änka 1862 och på 1870 talet började man ta hyresgäster till det stora huset, bl.a. Fiskaren Ingström och förre brandvakten Karl Their. Huset övergick till släkten Weckströms ägo. Fyra generationer Weckström kom att bo i huset.
+Israel och Maria hade en dotter Emelie och drängen Carl samt pigan Maria. Maria blev änka 1862 och på 1870 talet började man ta hyresgäster till det stora huset, bl.a. Fiskaren Ingström och förre brandvakten Karl Their. Huset övergick till släkten Weckströms ägo. Fyra generationer Weckström kom att bo i huset, bl.a. Åke Weckström som köpte ut sina syskon ur gården. Åke blev även ägare till Södra Bryggeriet, <a href="/buildings/287-1-123-6/sv.html">gård 37</a> vid Hållfastskagatan och Carlso som blev museum.
 
 Mantalslängd 1835 gård 67.
 <a href="mantalslangd1835.png" rel="lightbox"><img src="mantalslangd1835.png" title="mantalslängd" width="200px"></a>

@@ -1,12 +1,12 @@
 ---
 layout: building
 lang: sv
-title: Västra Långgatan 34
+title: fd Finska Lågstadiet norra
 fastighetsnr: 287-1-122-1044
 fastighetsnrKeinanen:
 gardsnr1842: 44
 stadsdel: 1
-adress: Läntinen Pitkäkatu 34
+adress: Västra Långgatan 34
 anno: 9999
 builtby:
 brandforsakring:

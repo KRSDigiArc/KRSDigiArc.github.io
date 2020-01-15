@@ -3,8 +3,9 @@ layout: building
 lang:   sv
 title:   Jims
 fastighetsnr: 287-2-248-1132D
-stadsdel: 1
-adress: Östra Långgatan
+gardsnr1842: 132
+stadsdel: 2
+adress: Strandgatan 37
 anno: 9999
 builtby:
 brandforsakring:

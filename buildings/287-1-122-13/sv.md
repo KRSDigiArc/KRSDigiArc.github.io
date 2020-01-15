@@ -1,7 +1,7 @@
 ---
 layout: building
 lang: sv
-title: Västrat Långgatan 26B
+title: Västra Långgatan 26B
 fastighetsnr: 287-1-122-13
 fastighetsnrKeinanen: I/22/10
 gardsnr1842: 48
