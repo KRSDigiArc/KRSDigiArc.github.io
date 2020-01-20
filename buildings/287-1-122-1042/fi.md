@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1042
 fastighetsnrKeinanen: I/22/2
 gardsnr1842: 42
 stadsdel: 1
-adress: Itäinen Pitkäkatu 71
+address:
+  - street: Itäinen Pitkäkatu
+    num: 71
 anno: 1852
 builtby: Merikapteeni J.G.Parman
 brandforsakring:

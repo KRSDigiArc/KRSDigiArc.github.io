@@ -6,7 +6,9 @@ fastighetsnr: 287-1-118-2208
 gardsnr1842: 208
 fastighetsnrKeinanen: I/18/1
 stadsdel: 1
-adress: Rantakatu 56
+address:
+  - street: Rantakatu
+    num: 56
 anno: 1855
 builtby: Dahl, Claes Fredrik
 brandforsakring: 3852

@@ -4,7 +4,9 @@ lang: fi
 title: Talaksen kulma
 fastighetsnr: 287-4-482-3
 stadsdel: 4
-adress: Kauppiaskatu
+address:
+  - street: Kauppiaskatu
+    num: 0
 anno: 1910
 builtby:
 brandforsakring:

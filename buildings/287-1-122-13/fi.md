@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-13
 fastighetsnrKeinanen: I/22/10
 nr1842: 48
 stadsdel: 1
-adress: Läntinen Pitkäkatu 26B
+address:
+  - street: Läntinen Pitkäkatu
+    num: 26B
 anno: 1820
 builtby:
 brandforsakring:

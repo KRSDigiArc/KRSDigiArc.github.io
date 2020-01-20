@@ -6,7 +6,9 @@ fastighetsnr: 287-2-250-2023
 fastighetsnrKeinanen: II/50/3
 gardsnr1842: 170
 stadsdel: 2
-adress: Strandgatan 30
+address:
+  - street: Strandgatan
+    num: 30
 anno: 1819
 builtby:
 brandforsakring: 1819

@@ -5,7 +5,9 @@ fastighetsnr: 287-1-122-5
 fastighetsnrKeinanen:
 gardsnr1842:
 stadsdel: 1
-adress: Östra Långgatan 75
+address:
+  - street: Östra Långgatan
+    num: 75
 anno: 9999
 builtby:
 brandforsakring:

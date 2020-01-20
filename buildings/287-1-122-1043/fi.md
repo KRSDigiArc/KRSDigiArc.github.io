@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1043
 fastighetsnr67: I/22/8
 gardsnr1842: 43
 stadsdel: 1
-adress: Läntinen pitkäkatu 30
+address:
+  - street: Läntinen pitkäkatu
+    num: 30
 anno: 1899.9
 builtby:
 brandforsakring:

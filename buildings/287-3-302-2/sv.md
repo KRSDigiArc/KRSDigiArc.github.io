@@ -4,7 +4,9 @@ lang: sv
 title: Juuselas hus
 fastighetsnr: 287-3-302-2
 stadsdel: 3
-adress: Lappfjärdsvägen
+address:
+  - street: Lappfjärdsvägen
+    num: 0
 anno: 9999
 builtby:
 brandforsakring:

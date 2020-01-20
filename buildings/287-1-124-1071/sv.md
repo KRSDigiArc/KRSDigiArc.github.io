@@ -6,7 +6,9 @@ fastighetsnr: 287-1-124-1071
 fastighetsnrKeinanen: I/24/10
 gardsnr1842: 71
 stadsdel: 1
-adress: Staketgatan 36
+address:
+  - street: Staketgatan
+    num: 36
 anno: 1899.9
 builtby:
 brandforsakring:

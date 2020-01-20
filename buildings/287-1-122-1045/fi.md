@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1045
 fastighetsnrKeinanen:
 gardsnr1842: 45
 stadsdel: 1
-adress: Läntinen Pitkäkatu 34
+address:
+  - street: Läntinen Pitkäkatu
+    num: 34
 anno: 1833
 builtby:
 brandforsakring: 10479

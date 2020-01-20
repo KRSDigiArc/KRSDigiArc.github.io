@@ -6,7 +6,9 @@ fastighetsnr: 287-1-124-1067
 fastighetsnrKeinanen: I/24/6
 gardsnr1842: 67
 stadsdel: 1
-adress: Läntinen Pitkäkatu 53
+address:
+ -street: Läntinen Pitkäkatu
+ num: 53
 anno: 1843
 builtby: Holmudd, Israel
 skydd: SR, SR

@@ -1,12 +1,16 @@
 ---
 layout: building
-lang: fi
+lang: sv
 title: Konsulatet
 fastighetsnr: 287-1-121-7
 gardsnr1842: 7
 fastighetsnrKeinanen: I/21/1
 stadsdel: 1
-adress: Östra långgatan 76, Strandgatan 75
+address:
+  - street: Östra Långgatan
+    num: 76
+  - street: Strandgatan
+    num: 75
 anno: 9999
 builtby:
 brandforsakring:

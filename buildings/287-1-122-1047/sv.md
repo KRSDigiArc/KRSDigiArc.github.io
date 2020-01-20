@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1047
 fastighetsnrKeinanen: I/22/9
 gardsnr1842: 47
 stadsdel: 1
-adress: Västra Långgatan 28
+address:
+  - street: Västra Långgatan
+    num: 28
 anno: 1899.9
 builtby:
 brandforsakring:

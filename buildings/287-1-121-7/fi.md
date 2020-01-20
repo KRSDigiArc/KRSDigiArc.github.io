@@ -6,7 +6,11 @@ fastighetsnr: 287-1-121-7
 gardsnr1842: 7
 fastighetsnrKeinanen: I/21/1
 stadsdel: 1
-adress: Itäinenpitkäkatu 76, Rantakatu 75
+address:
+  - street: Itäinen Pitkäkatu
+    num: 76
+  - street: Rantakatu
+    num: 75
 anno: 9999
 builtby:
 brandforsakring:

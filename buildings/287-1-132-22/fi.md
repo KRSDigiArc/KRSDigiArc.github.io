@@ -6,7 +6,9 @@ fastighetsnr: 287-1-132-22
 fastighetsnrKeinanen: I/32/8
 gardsnr1842: 80
 stadsdel: 1
-adress: Aitakatu 20
+address:
+  - street: Aitakatu
+    num: 20
 anno: 1864
 builtby:
 brandforsakring:

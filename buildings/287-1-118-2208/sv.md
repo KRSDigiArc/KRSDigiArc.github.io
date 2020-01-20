@@ -6,7 +6,9 @@ fastighetsnr: 287-1-118-2208
 gardsnr1842: 208
 fastighetsnrKeinanen: I/18/1
 stadsdel: 1
-adress: Strandgatan 56
+address:
+  - street: Strandgatan
+    num: 56
 anno: 1855
 builtby: Dahl, Claes Fredrik
 brandforsakring: 3852

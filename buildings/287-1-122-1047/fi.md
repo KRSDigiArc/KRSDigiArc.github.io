@@ -1,11 +1,13 @@
 ---
 layout: building
 lang: fi
-title: template
+title: Läntinen Pitkäkatu 28
 fastighetsnr: 287-1-122-1047
 nr1842: 47
 stadsdel: 1
-adress: Läntinen Pitkäkatu 28
+address:
+  - street: Läntinen Pitkäkatu
+    num: 28
 anno: 1899.9
 builtby:
 brandforsakring:

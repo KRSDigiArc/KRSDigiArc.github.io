@@ -6,7 +6,11 @@ fastighetsnr: 287-1-122-12
 fastighetsnrKeinanen: I/22/11
 gardsnr1842: 48
 stadsdel: 1
-adress: Läntinen Pitkäkatu 26, Kissanpiiskaajankuja 8
+address:
+  - street: Läntinen Pitkäkatu
+    num: 26
+  - street: Kissanpiiskaajankuja
+    num: 8
 anno: 1884
 builtby: Lagerstam
 skydd: SR, SR

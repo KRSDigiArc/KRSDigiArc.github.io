@@ -5,7 +5,9 @@ title:   Jims
 fastighetsnr: 287-2-248-1132D
 gardsnr1842: 132
 stadsdel: 2
-adress: Strandgatan 37
+address:
+  - street: Strandgatan
+    num: 37
 anno: 9999
 builtby:
 brandforsakring:

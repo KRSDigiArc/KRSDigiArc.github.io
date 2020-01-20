@@ -5,7 +5,9 @@ title: Läntinen Pitkäkatu 32
 fastighetsnr: 287-1-122-1046
 gardsnr1842: 46
 stadsdel: 1
-adress: Läntinen Pitkäkatu 32
+address:
+  - street: Läntinen Pitkäkatu
+    num: 32
 anno: 1899.9
 builtby:
 brandforsakring:

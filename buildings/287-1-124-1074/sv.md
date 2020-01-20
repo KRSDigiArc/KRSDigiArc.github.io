@@ -5,7 +5,9 @@ title: Staketgatan 30
 fastighetsnr: 287-1-124-1074
 gardsnr1842: 74
 stadsdel: 1
-adress: Staketgatan 30
+address:
+  - street: Staketgatan
+    num: 30
 anno: 1842
 builtby:
 brandforsakring: 4160

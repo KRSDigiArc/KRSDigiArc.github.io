@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1045
 fastighetsnrKeinanen:
 gardsnr1842: 45
 stadsdel: 1
-adress: Västra Långgatan 34
+address:
+  - street: Västra Långgatan
+    num: 34
 anno: 1833
 builtby:
 brandforsakring: 10479

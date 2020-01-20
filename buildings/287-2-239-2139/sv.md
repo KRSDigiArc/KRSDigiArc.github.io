@@ -5,7 +5,9 @@ title: Västra Långgatan 19
 fastighetsnr: 287-2-239-2139
 gardsnr1842: 111
 stadsdel: 2
-adress: Västra Långgatan 19
+address:
+  - street: Västra Långgatan
+    num: 19
 anno: 1842
 builtby:
 brandforsakring: 4097

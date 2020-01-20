@@ -6,7 +6,9 @@ fastighetsnr: 287-1-124-1067
 fastighetsnrKeinanen: I/24/6
 gardsnr1842: 67
 stadsdel: 1
-adress: Västra Långgatan 53
+address:
+  - street: Västra Långgatan
+    num: 53
 anno: 1834
 builtby: Holmudd, Israel
 skydd: SR, SR

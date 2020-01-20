@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-1042
 fastighetsnrKeinanen: I/22/2
 gardsnr1842: 42
 stadsdel: 1
-adress: Östra Långgatan 71
+aadress:
+  - street: Östra Långgatan
+    num: 71
 anno: 1852
 builtby: Sjökapten J.G.Parman
 brandforsakring:

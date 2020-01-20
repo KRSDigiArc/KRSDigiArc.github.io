@@ -5,7 +5,9 @@ title: Staffans
 fastighetsnr: 287-2-248-1132C
 gardsnr1842: 132
 stadsdel: 2
-adress: Strandgatan 37
+address:
+  - street: Strandgatan
+    num: 37
 anno: 1873
 builtby:
 brandforsakring:

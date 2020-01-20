@@ -4,7 +4,9 @@ lang: sv
 title: Talas hörnet
 fastighetsnr: 287-4-482-3
 stadsdel: 4
-adress: Köpmansgatan
+address:
+  - street: Köpmansgatan
+    num: 0
 anno: 1910
 builtby:
 brandforsakring:

@@ -6,7 +6,9 @@ fastighetsnr: 287-3-302-2
 gardsnr1842:
 fastighetsnrKeinanen:
 stadsdel: 3
-adress: Lapväärtintie
+address:
+  - street: Lapväärtintie
+    num: 0
 anno: 9999
 builtby:
 brandforsakring:

@@ -6,7 +6,9 @@ fastighetsnr: 287-1-123-6
 fastighetsnrKeinanen:
 gardsnr1842: 37
 stadsdel: 1
-adress: Hållfastinkatu 8
+address:
+  - street: Hållfastinkatu
+    num: 8
 anno:
 builtby:
 skydd:

@@ -5,7 +5,9 @@ fastighetsnr: 287-1-122-5
 fastighetsnrKeinanen:
 gardsnr1842: 44
 stadsdel: 1
-adress: Itäinen Pitkäkatu 75
+address:
+  - street: Itäinen Pitkäkatu
+    num: 75
 anno: 9999
 builtby:
 brandforsakring:
