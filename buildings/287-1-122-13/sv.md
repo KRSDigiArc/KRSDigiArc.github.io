@@ -6,7 +6,9 @@ fastighetsnr: 287-1-122-13
 fastighetsnrKeinanen: I/22/10
 gardsnr1842: 48
 stadsdel: 1
-adress: Västra Långgatan 26B
+address:
+  - street: Västra Långgatan
+    num: 26B
 anno: 1820
 builtby:
 brandforsakring:

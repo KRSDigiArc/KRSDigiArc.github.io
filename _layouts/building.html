@@ -26,7 +26,7 @@
           <tr> <th>Skyddsklass</th> <td>{{ page.skydd }}</td> </tr>
           <tr> <th>Brandförsäkr.</th> <td>{{ page.brandforsakring }}</td> </tr>
           {% for item in page.address %}
-          <tr> <th>Adress <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad"> {{ item.street }} {{ item.num }}</a> </td> </tr>
+          <tr> <th>Adress <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
           {% endfor %}
           {% if page.instagram %}
           <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
@@ -54,7 +54,7 @@
           <tr> <th>Suojelu</th> <td>{{ page.skydd }}</td> </tr>
           <tr> <th>Palovakuutusk.</th> <td>{{ page.brandforsakring }}</td> </tr>
           {% for item in page.address %}
-          <tr> <th>Osoite <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad"> {{ item.street }} {{ item.num }}</a> </td> </tr>
+          <tr> <th>Osoite <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
           {% endfor %}
           {% if page.instagram %}
           <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>

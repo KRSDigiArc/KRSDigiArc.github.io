@@ -6,7 +6,7 @@ fastighetsnr: 287-1-122-1042
 fastighetsnrKeinanen: I/22/2
 gardsnr1842: 42
 stadsdel: 1
-aadress:
+address:
   - street: Östra Långgatan
     num: 71
 anno: 1852

@@ -1,13 +1,13 @@
 ---
 layout: building
-lang:
-title: Läntinen pitkäkatu 30
+lang: fi
+title: Läntinen Pitkäkatu 30
 fastighetsnr: 287-1-122-1043
 fastighetsnr67: I/22/8
 gardsnr1842: 43
 stadsdel: 1
 address:
-  - street: Läntinen pitkäkatu
+  - street: Läntinen Pitkäkatu
     num: 30
 anno: 1899.9
 builtby:

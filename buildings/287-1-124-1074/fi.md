@@ -6,7 +6,7 @@ fastighetsnr: 287-1-124-1074
 gardsnr1842:
 stadsdel: 1
 address:
-  - street: Staketgatan
+  - street: Aitakatu
     num: 30
 anno: 1842
 builtby:

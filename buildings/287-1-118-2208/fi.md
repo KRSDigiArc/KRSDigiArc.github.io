@@ -21,7 +21,7 @@ img_caption: Google Streetview 2009
 
 
 ## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
-1. Lyhytnurkkainen asuinrakennus v:lta 1855, sekundaarinen uurrettu vaakalaudoitus, rakennuksessa ollut aikaisemmin rappaus, katufasadissa sekundaarinen ovi, aumakatto. A, MAI / MA pvk. 3852
+1. Lyhytnurkkainen asuinrakennus vuodelta 1855, sekundaarinen uurrettu vaakalaudoitus, rakennuksessa ollut aikaisemmin rappaus, katufasadissa sekundaarinen ovi, aumakatto. A, MAI / MA pvk. 3852
 2. Lyhytnurkkainen ulkorakennus, peiterimavuoraus, satulakatto. A
 3. Pitkänurkkainen ulkorakennus ja asuinrakennus, peiterimavuoraus. A
 
