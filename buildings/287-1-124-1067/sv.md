@@ -22,7 +22,7 @@ facebook:  gard67
 ---
 
 ## Gårdens historia
-Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 med fru Maria. Huset utvidgades 1844 och bagarstugan byggdes till. På <a href="/maps/sundstedt1825/Grundrit_1.jpg">stadskarta från 1825</a> finns det inritat en väderkvarn på gården, medan den saknas på <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">1842 års karta</a>. Antagligen revs den då de nuvarande byggnaderna byggdes.
+Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 med fru Maria. Huset utvidgades 1844 och bagarstugan byggdes till. På <a href="/maps/sundstedt1825/Grundrit_1.jpg">stadskarta från 1825</a> finns det inritat en väderkvarn på gården, medan den saknas på <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">1842 års karta</a>. Antagligen revs den då de nuvarande byggnaderna byggdes. Det är inte kännt vad det fanns för andra byggnader på Gård 67 före år 1834, men vilka som bodde här står att läsa i mantalslängderna.
 
 ## Byggnadsinventering <a href="/sources/keinanen_karki.pdf">v.1967</a>
 1. Bostadshus med knutskallar, lockläkt, byggt 1834 utvidgat 1844, valmat tak. AI,MA brandförsäkring 4931 OM
@@ -77,7 +77,7 @@ Byggnaderna som år 1967
 </table>
 
 ## Mänskor och händelser
-Israel och Maria hade en dotter Emelie och drängen Carl samt pigan Maria. Maria blev änka 1862 och på 1870 talet började man ta hyresgäster till det stora huset, bl.a. Fiskaren Ingström och förre brandvakten Karl Their. Huset övergick till släkten Weckströms ägo. Fyra generationer Weckström kom att bo i huset, bl.a. Åke Weckström som köpte ut sina syskon ur gården. Åke blev även ägare till Södra Bryggeriet, <a href="/buildings/287-1-123-6/sv.html">gård 37</a> vid Hållfastskagatan och Carlso som blev museum.
+Israel och Maria hade en dotter Emelia och pigan Maria samt senare drängen Carl. Maria blev änka 1862, kort innan tog man in de första hyresgästerna på gården. I medlet av 1870 övergår gården till Weckströmska släkten och antalet hyresgäster stiger kraftigt i det stora huset och bagarstugan, bl.a. Fiskaren Ingström och förre brandvakten Karl Their som första. Fyra generationer Weckström kom att bo i huset, bl.a. Åke Weckström som köpte ut sina syskon ur gården. Åke blev även ägare till Södra Bryggeriet, <a href="/buildings/287-1-123-6/sv.html">gård 37</a> vid Hållfastskagatan och villan <a href="http://www.museiportalosterbotten.fi/museum-a-o-en/museum/5-carlsro-museum">Carlso</a> som han gjorde till museum.
 
 ### Mantalslängder
 
