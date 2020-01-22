@@ -28,6 +28,12 @@
           document.getElementById("mySidebar").style.display = "none";
       }
     </script>
+    <script>
+      // This makes in page # references scroll to take the topbar 230px into account
+      var shiftWindow = function() { scrollBy(0, -230) };
+      if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);
+    </script>
   </head>
   <body>
     {% include script.html %}
@@ -35,9 +41,15 @@
       <table border="0" cellspacing="0">
         <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="229px"></td>
           <td><img src="/images/karta.png" alt="karta" height="230px"></td>
-          </tr>
+        </tr>
       </table>
     </div>
+    <div class="menu">
+        <div class="w3-teal">
+          <button class="w3-button krs-pink w3-xlarge w3-left w3-hide-large" onclick="w3_open()">&#9776;</button>
+        </div>
+    </div>
+
     <div class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left w3-black w3-text-white" style="width:250px;left:0;top:230px" id="mySidebar">
       <button class="w3-bar-item w3-button w3-large w3-hide-large w3-button-black" onclick="w3_close()">Close &times;</button>
       {% if page.lang == "fi" %}
@@ -48,7 +60,4 @@
     </div>
 
     <div class="w3-main" style="margin-left:250px;margin-top:230px">
-      <div class="w3-teal">
-        <button class="w3-button w3-teal w3-xlarge w3-left w3-hide-large" onclick="w3_open()">&#9776;</button>
-      </div>
       <div class="w3-container">

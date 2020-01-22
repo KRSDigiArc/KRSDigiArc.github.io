@@ -25,12 +25,22 @@ body {
 }
 
 .topbar {
-    height: 230px;
+    height: 231px;
     width: 100%;
     position: fixed;
     background-color: #d3cab2;
+    overflow: hidden;
     left: 0;
     top: 0;
 }
 
+.menu {
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    left: 0;
+    top: 170px;
+}
+
 .krs-brown,.krs-hover-brown:hover{color:#000!important;background-color:#d3cab2!important}
+.krs-pink,.krs-hover-pink:hover{color:#000!important;background-color:#ccb1a6!important}
