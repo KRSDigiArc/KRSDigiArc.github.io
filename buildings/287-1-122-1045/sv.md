@@ -23,12 +23,12 @@ img_caption: Google Streetview 2009
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Lyhytnurkkainen koulurakennus, rakennettu 1878, uurrettu vaakalaudoitus, satulakatto. B, MA. pvk. 10479
-2. 2-kerroksinen koulurakennus, 1. kerros tiilestä, 2-kerr. hirsistä ja vaakalaudoitettu, satulakatto. C, MB
-3. Tiilinen, rapattu koulurakennus rak.1 ja 2 välissä C, MB
-4. Pitkänurkkainen koulurakennus, rak. 1833, vuoraus 1800-luvun lopulta, satulakatto. B, MA
-5. Lyhytnurkkainen verstasrakennus, uurrettu vaakalaudoitus B
-6. Pitkänurkkainen asuinrakennus, peiterimalaudoitus, satulakatto. B, MA.
+1. Skolbyggnad med slätknut, byggt 1878, falsad liggande panel, sadeltak. B, MA. pvk. 10479
+2. Skolbyggnad i 2-våningar, 1 våningen i tegel, 2 våningen med liggande panel, sadeltak. C, MB
+3. Skolbyggnad i rappad tegel mellan byggnad 1 och 2. C, MB
+4. Skolbyggnad med knutskallar, byggd 1833, fodring från slutet av 1800-talet, sadeltak. B, MA
+5. Verkstadsbyggnad med slätknutar, valsad liggande panel B
+6. Bostadsbyggnad med knutskallar, lockläktspanel, sadeltak. B, MA.
 7. Lautarakenteinen ulkorakennus C
 
 ## Situationen i dag

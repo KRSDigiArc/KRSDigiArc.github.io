@@ -21,9 +21,9 @@ img_caption: Google Streetview 2009
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Pitkänurkkainen asuinrakennus 1800-luvulta, satulakatto A, MA
-2. Sauna hirsistä A
-3. Vaja, pystylaudoitus B
+1. Bostadshus med knutskallar från 1800-talet, sadeltak. A, MA
+2. Timrad bastu A
+3. Skjul, stående panel. B
 
 
 ## Situationen i dag

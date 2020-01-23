@@ -21,9 +21,9 @@ img_caption: Google Streetview 2009
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Lyhytnurkkainen asuinrakennus v:lta 1855, sekundaarinen uurrettu vaakalaudoitus, rakennuksessa ollut aikaisemmin rappaus, katufasadissa sekundaarinen ovi, aumakatto. A, MAI / MA pvk. 3852
-2. Lyhytnurkkainen ulkorakennus, peiterimavuoraus, satulakatto. A
-3. Pitkänurkkainen ulkorakennus ja asuinrakennus, peiterimavuoraus. A
+1. Bostadshus med slätknut från år 1855, sekundär falsad liggande panel, huset har tidigare varit rappat, sekundär dörr i gatufasaden, valmat tak. A, MAI / MA pvk. 3852
+2. Uthus med slätknut, lockläktspanel, sadeltak. A
+3. Uthus och bostadshus med knutskallar, lockläktspanel. A
 
 ## Situationen i dag
 
