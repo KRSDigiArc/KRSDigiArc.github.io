@@ -78,7 +78,104 @@ Sama kuin vuonna 1967
 
 
 ## Ihmisiä ja tapahtumia
-Israelilla ja Marialla oli yksi tytär Emelie sekä renki Carl ja piika Maria. Mariasta jää leskeksi 1862 ja 1870 luvulla suureen taloon aletaan ottaa vuokralaisia, mm. kalastaja Ingström ja entinen palovahti Karl Their. Talo siirtyy Weckströmin suvun omistukseen. Neljä sukupolvea Weckströmeitä tulee asumaan talosaa, mm. Åke Weckström joka ostaa sisarustensa osuudet talosta. Åke ostaa myöhemmin myös eteläisen panimon, <a href="/buildings/287-1-123-6/fi.html">tontin nro. 37</a> Hållfastinkadulla sekä Carlsron huvilan josta hän tekee museon.
+Israelilla ja Marialla oli yksi tytär Emelie (ainoa kolmesta joka selvisi aikuiseksi) sekä piika Maria ja myöhemmin renki Carl. Maria jää leskeksi 1862. Vähän ennen sitä taloon otetaan ensimmäiset vuokralaiset. 1870 luvun puolessavälissä talo siirtyy Weckströmin suvun haltuun ja vuokralaisten määrä kasvaa rajusti suuressa talossa sekä pakarintuvassa, mm. kalastaja Ingström ja entinen palovahti Karl Their ensimmäisten joukossa. Neljä sukupolvea Weckströmeitä tulee asumaan talossa, mm. Åke Weckström joka ostaa sisarustensa osuudet talosta. Åke ostaa myöhemmin myös eteläisen panimon, <a href="/buildings/287-1-123-6/fi.html">tontin nro. 37</a> Hållfastinkadulla sekä <a href="http://www.museiportalosterbotten.fi/museum-a-o-en/museum/5-carlsro-museum">Carlson huvilan</a> josta hän tekee museon.
 
-Henkikirja 1835 talo 67.
-<a href="mantalslangd1835.png" rel="lightbox"><img src="mantalslangd1835.png" title="mantalslängd" width="200px"></a>
+### Henkikirjoja
+
+<table>
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=632741">Henkikirja 1835 gård 67</a></td></tr>
+        <tr><td>Skepparen Israel Holmudd, Maria hustru</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1835.png" rel="lightbox"><img src="mantalslangd1835.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=612905">Henkikirja 1840 gård 67</a></td></tr>
+        <tr><td>Skepparen Israel Holmdd, Maria hustru,??</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1840.png" rel="lightbox"><img src="mantalslangd1840.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=612905">Henkikirja 1845 gård 67</a></td></tr>
+        <tr><td>Skepparen Israel Holmudd, Maria hustru, Maria piga</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1845.png" rel="lightbox"><img src="mantalslangd1845.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=601660">Henkikirja 1850 gård 67</a></td></tr>
+        <tr><td>Skepparen Israel Holmudd, Maria hustru, Emelie dotter, Maria piga, Carl dräng</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1850.png" rel="lightbox"><img src="mantalslangd1850.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+<tr>
+    <td>
+      <table>
+        <tr><td>1855 gård 67</td></tr>
+        <tr><td></td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1855.png" rel="lightbox"><img src="mantalslangd1855.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=567463">Henkikirja 1860 gård 67</a></td></tr>
+        <tr><td>Skepparen Israel Holmudd, Maria hustru, Lovisa piga, Skepparenkan J.E.??, Hilma hustru, Alexandra piga</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1860.png" rel="lightbox"><img src="mantalslangd1860.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=626821">Henkikirja 1870 gård 67</a></td></tr>
+        <tr><td>Skepparenkan Maria Holmudd, Fiskaren H.Ingström, hustru Augusta, förre brandvakten Karl Their</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1870.png" rel="lightbox"><img src="mantalslangd1870.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=632501">Henkikirja 1875 gård 67</a></td></tr>
+        <tr><td>Sjöman Karl Weckström, h. Greta, kopparslagaren Wallin, hustru Ida, sjöman Henrik Forsman, hustru Maria, Waktmästaren Anders Forsberg, hustru Thilda, skomakaränkan Maria Enholm</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1875.png" rel="lightbox"><img src="mantalslangd1875.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=640343">Henkikirja 1880 gård 67</a></td></tr>
+        <tr><td>Sjömansenkan Greta Weckström, Sjöman Emil Holmberg, hustru Amanda, Josef Lindman, hustru Anna, Henrik Forsman, hustru Maria, Styrmanshustrun Mathilda Holmberg, Arbetskarlsenkan Anna Lisa Österback</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1880.png" rel="lightbox"><img src="mantalslangd1880.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+
+<tr>
+    <td>
+      <table>
+        <tr><td><a href="http://digi.narc.fi/digi/view.ka?kuid=20434059">Henkikirja 1885 gård 67</a></td></tr>
+        <tr><td>Sjömansenkan Greta Weckström, Sjömansotterna Augusta, Skomakarenkan Maria Wallin, Sjöman Herman Freds Wallin, Skomakaren Matts Nylund, Sjötullvaktmästaren Konstantin Malm, Sjöman Josef Sundblad, hustru Augusta, Dito Karl Forsström</td></tr>
+      </table>
+    </td>
+  <td><a href="mantalslangd1885.png" rel="lightbox"><img src="mantalslangd1885.png" title="mantalslängd" width="200px"></a></td>
+</tr>
+
+</table>
