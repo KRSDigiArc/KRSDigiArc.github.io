@@ -19,7 +19,7 @@ lang: sv
                 </table>
               </td>
               <td>
-                 <a href="{{sitepage.dir}}{{ sitepage.img }}" rel="lightbox"><img src="{{sitepage.dir}}{{ sitepage.img }}" width="200px"></a>
+                 <a href="{{sitepage.dir}}{{ sitepage.img }}" rel="lightbox"><img src="{{sitepage.dir}}{{ sitepage.img_thumb }}" width="200px"></a>
               </td>
            </tr>
         {% endif %}

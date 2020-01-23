@@ -9,6 +9,7 @@ digikalla: digi.narc.fi
 digikallurl: http://digi.narc.fi/digi/view.ka?kuid=26505847
 arkiv: Riksarkivet
 kalla:
+img_thumb: Kristiin_1_small.jpg
 img: Kristiin_1.jpg
 ---
 
