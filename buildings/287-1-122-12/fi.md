@@ -11,7 +11,7 @@ address:
     num: 26
   - street: Kissanpiiskaajankuja
     num: 8
-anno: 1884
+anno: 1848
 builtby: Lagerstam
 skydd: SR, SR
 skydd67: A, B

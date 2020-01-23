@@ -9,8 +9,8 @@ address:
   - street: Västra Långgatan
     num: 26
   - street: Kattpiskargränden
-    num: 26
-anno: 1884
+    num: 8
+anno: 1848
 builtby: Lagerstam
 brandforskaring:
 skydd: SR, SR
