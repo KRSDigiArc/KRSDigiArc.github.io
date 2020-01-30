@@ -3,7 +3,7 @@ layout: home
 ---
 # Enligt adress
 
-{% assign streets = "Hållfastskagatan,Kattpiskargränden,Köpmansgatan,Lappfjärdsvägen,Parkgatan,Staketgatan,Strandgatan,Västra Långgatan,Östra Långgatan" | split: ','%}
+{% assign streets = "Hållfastskagatan,Kattpiskargränden,Kyrkogatan,Köpmansgatan,Lappfjärdsvägen,Nygatan,Parkgatan,Staketgatan,Strandgatan,Västra Långgatan,Östra Långgatan" | split: ','%}
 <p>
 {%- for street in streets %}
     <a href="#{{street}}">{{ street }}</a>
