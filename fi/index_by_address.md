@@ -3,7 +3,7 @@ layout: home
 lang: fi
 ---
 # Osoitteen mukaan
-{% assign streets = "Aitakatu,Hållfastinkatu,Itäinen Pitkäkatu,Kauppiaskatu,Kirkkokatu,Kissanpiiskaajankuja,Lapväärtintie,Läntinen Pitkäkatu,Puistokatu,Rantakatu,Uusikatu" | split: ','%}
+{% assign streets = "Aitakatu,Hållfastinkatu,Itäinen Pitkäkatu,Kauppiaskatu,Kirkkokatu,Kissanpiiskaajankuja,Lapväärtintie,Läntinen Pitkäkatu,Puistokatu,Rantakatu,Sundströminkatu,Uusikatu" | split: ','%}
 <p>
 {%- for street in streets %}
     <a href="#{{street}}">{{ street }}</a>
