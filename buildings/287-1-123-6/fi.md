@@ -9,7 +9,7 @@ stadsdel: 1
 address:
   - street: Hållfastinkatu
     num: 8
-anno:
+anno: 9999
 builtby:
 skydd:
 skydd67:
