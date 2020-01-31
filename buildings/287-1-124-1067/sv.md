@@ -19,6 +19,7 @@ www: https://gard67.blogspot.com/
 img_caption:
 instagram: gard_67
 facebook:  gard67
+imgmap: "502,151,515,170"
 ---
 
 ## Gårdens historia

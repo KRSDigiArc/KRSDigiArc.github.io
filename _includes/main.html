@@ -28,19 +28,48 @@
           document.getElementById("mySidebar").style.display = "none";
       }
     </script>
-    <script>
+        <script>
       // This makes in page # references scroll to take the topbar 230px into account
-      var shiftWindow = function() { scrollBy(0, -230) };
+      /*var shiftWindow = function() { scrollBy(0, -230) };
       if (location.hash) shiftWindow();
+      window.addEventListener("hashchange", shiftWindow);*/
+      /* Adjust the scroll height of anchors to compensate for the fixed navbar */
+      window.disableShift = false;
+      var shiftWindow = function() {
+          if (window.disableShift) {
+              window.disableShift = false;
+          } else {
+              // If we're at the bottom of the page, don't erronously scroll up
+              var scrolledToBottomOfPage = (window.innerHeight + window.scrollY) >= document.body.offsetHeight);
+              if (!scrolledToBottomOfPage) {
+                  scrollBy(0, -230);
+              } else {
+                  scrollBy(0, -23);
+              };
+          };
+      };
+      if (location.hash) {shiftWindow();}
       window.addEventListener("hashchange", shiftWindow);
     </script>
+
   </head>
   <body>
     {% include script.html %}
+
     <div class="topbar">
+      <map name="map1842">
+       {% for sitepage in site.pages %}
+       {% if sitepage.imgmap' %}
+          <area shape="rect" coords={{sitepage.imgmap}} alt="{{sitepage.title}}" title="{{sitepage.title}}" href="{{sitepage.url}}">
+       {% endif %}
+       {% endfor %}
+    </map>
+
       <table border="0" cellspacing="0">
-        <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="229px"></td>
-          <td><img src="/images/karta.png" alt="karta" height="230px"></td>
+        <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="229px></td>
+          <a href="http://www.google.com">
+            <td><img src="/images/karta.png" alt="karta" height="230px"  usemap="#map1842"></td>
+            </a>
         </tr>
       </table>
     </div>
