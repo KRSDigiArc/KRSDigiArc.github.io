@@ -3,7 +3,7 @@ layout: building
 lang: sv
 title: Claes Fredrik Dahls hus
 fastighetsnr: 287-1-118-2208
-gardsnr1842: 208
+gardsnr1842:
 fastighetsnrKeinanen: I/18/1
 stadsdel: 1
 address:
@@ -16,6 +16,7 @@ skydd: SR, SR, SR
 skydd67: A, A, A
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "476,69,480,82"
 ---
 ## Gårdens Historia
 

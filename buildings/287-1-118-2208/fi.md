@@ -3,7 +3,7 @@ layout: building
 lang: fi
 title: Claes Fredrik Dahls hus
 fastighetsnr: 287-1-118-2208
-gardsnr1842: 208
+gardsnr1842:
 fastighetsnrKeinanen: I/18/1
 stadsdel: 1
 address:

@@ -19,6 +19,7 @@ www:
 img_caption:
 instagram:
 facebook:
+imgmap: "503,68,510,79"
 ---
 
 ## Gårdens historia
