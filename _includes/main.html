@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="html__responsive">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
@@ -28,55 +28,105 @@
           document.getElementById("mySidebar").style.display = "none";
       }
     </script>
-        <script>
+    <script>
       // This makes in page # references scroll to take the topbar 230px into account
       /*var shiftWindow = function() { scrollBy(0, -230) };
       if (location.hash) shiftWindow();
-      window.addEventListener("hashchange", shiftWindow);*/
+       window.addEventListener("hashchange", shiftWindow);*/
       /* Adjust the scroll height of anchors to compensate for the fixed navbar */
-      window.disableShift = false;
+      //window.disableShift = false;
       var shiftWindow = function() {
-          if (window.disableShift) {
+          console.log('shift')
+          /*if (window.disableShift) {
               window.disableShift = false;
-          } else {
-              // If we're at the bottom of the page, don't erronously scroll up
-              var scrolledToBottomOfPage = (window.innerHeight + window.scrollY) >= document.body.offsetHeight);
+          } else {*/
+          // If we're at the bottom of the page, don't erronously scroll up
+          console.log(window.innerHeight + " " + window.scrollY + " " + document.body.offsetHeight)
+          var scrolledToBottomOfPage = ((window.innerHeight + window.scrollY) >= (document.body.offsetHeight+230));
               if (!scrolledToBottomOfPage) {
                   scrollBy(0, -230);
-              } else {
-                  scrollBy(0, -23);
-              };
-          };
-      };
-      if (location.hash) {shiftWindow();}
+              } else
+                  console.log('dont scroll')
+          //};
+      }
+      /*if (location.hash) {
+          shiftWindow();
+      }*/
       window.addEventListener("hashchange", shiftWindow);
     </script>
+    <script>
+      function DrawAll(toggle) {
+          var cnvs = document.getElementById("myCanvas");
 
+          cnvs.style.position = "absolute";
+          cnvs.style.left = "250px"; //img.offsetLeft + "px";
+          cnvs.style.top = "0px";
+
+          var ctx = cnvs.getContext("2d");
+          ctx.lineWidth = 2;
+          ctx.strokeStyle = '#00ff00';
+          console.log("draw " + toggle)
+          if (toggle) {
+              if (cnvs.style.display == "block") {
+                  console.log("block");
+                  cnvs.style.display = "none";
+                  return;
+              } else {
+                  console.log("none");
+                  cnvs.style.display = "block";
+              }
+          }
+
+          ctx.beginPath();
+          {% if page.layout == 'building' %}
+            cnvs.style.display = "block"; // always show a building
+            ctx.beginPath();
+            // the coordinates in imgmap are left upper corner, right lower corner, but ctx.rect is left upper corner, width, length
+            var cc = [{{page.imgmap}}];
+            ctx.rect(cc[0], cc[1], cc[2]-cc[0], cc[3]-cc[1]);
+            ctx.stroke();
+          {% else %}
+            {% for sitepage in site.pages %}
+              {% if sitepage.imgmap %}
+                ctx.beginPath();
+                // the coordinates in imgmap are left upper corner, right lower corner, but ctx.rect is left upper corner, width, length
+                var cc = [{{sitepage.imgmap}}];
+                ctx.rect(cc[0], cc[1], cc[2]-cc[0], cc[3]-cc[1]);
+                ctx.stroke();
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+      }
+    </script>
   </head>
-  <body>
+  <body  onload="DrawAll(false)">
     {% include script.html %}
 
     <div class="topbar">
       <map name="map1842">
-       {% for sitepage in site.pages %}
-       {% if sitepage.imgmap' %}
-          <area shape="rect" coords={{sitepage.imgmap}} alt="{{sitepage.title}}" title="{{sitepage.title}}" href="{{sitepage.url}}">
-       {% endif %}
-       {% endfor %}
-    </map>
+        {% for sitepage in site.pages %}
+        {% if sitepage.imgmap %}
+        <area shape="rect" coords={{sitepage.imgmap}} alt="{{sitepage.title}}" title="{{sitepage.title}}" href="{{sitepage.url}}">
+        {% endif %}
+        {% endfor %}
+      </map>
 
       <table border="0" cellspacing="0">
-        <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="229px></td>
+        <tr><td> <img src="/images/christinestaed.png" alt="christinestaed" width="250px" height="229px"></td>
           <a href="http://www.google.com">
-            <td><img src="/images/karta.png" alt="karta" height="230px"  usemap="#map1842"></td>
-            </a>
+            <td><img id='themap' src="/images/karta.png" alt="karta" height="230px"  usemap="#map1842"></td>
+          </a>
+          <canvas id='myCanvas' width='656px' height='230px' style="display:none"></canvas>
         </tr>
       </table>
     </div>
     <div class="menu">
-        <div class="w3-teal">
-          <button class="w3-button krs-pink w3-xlarge w3-left w3-hide-large" onclick="w3_open()">&#9776;</button>
-        </div>
+      <div class="w3-teal">
+        <button class="w3-button krs-pink w3-xlarge w3-left w3-hide-large" onclick="w3_open()">&#9776;</button>
+      </div>
+    </div>
+    <div class="housebutton">
+      <button onclick="DrawAll(true)" style="background-color:#d3cab2">G</button>
     </div>
 
     <div class="w3-sidebar w3-bar-block w3-collapse w3-card w3-animate-left w3-black w3-text-white" style="width:250px;left:0;top:230px" id="mySidebar">

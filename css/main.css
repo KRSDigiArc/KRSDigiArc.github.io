@@ -42,5 +42,15 @@ body {
     top: 170px;
 }
 
+.housebutton {
+    position: fixed;
+    height: 15px;
+    width: 15px;
+    left: 850px;
+    top: 200px;
+}
+
+
 .krs-brown,.krs-hover-brown:hover{color:#000!important;background-color:#d3cab2!important}
 .krs-pink,.krs-hover-pink:hover{color:#000!important;background-color:#ccb1a6!important}
+
