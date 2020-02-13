@@ -14,5 +14,11 @@
   <a href="/fi/karttoja" class="w3-bar-item w3-button krs-hover-brown">Karttoja</a>
   <a href="/fi/lahteita" class="w3-bar-item w3-button krs-hover-brown">Lähteitä</a>
   <br><br><br><br>
-  <a href="/index" class="w3-bar-item w3-button krs-hover-brown">På svenska</a>
+  <!-- stay on building page when switching language, could probably be done for all pages but buildings enough for me -->
+  {% if page.layout == 'building' %}
+    {% assign ur = page.url|remove:'fi.html' %}
+    <a href="{{ ur }}sv.html" class="w3-bar-item w3-button krs-hover-brown">På svenska</a>
+  {% else %}
+    <a href="/index" class="w3-bar-item w3-button krs-hover-brown">På svenska</a>
+  {% endif %}
 </p>

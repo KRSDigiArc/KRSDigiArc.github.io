@@ -35,3 +35,5 @@ aumakatto. A, MB / MC
 Sama kuin 1967
 
 ## Piirustuksia ja muutoksia
+
+## Ihmisiä ja tapahtumia

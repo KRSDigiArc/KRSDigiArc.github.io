@@ -11,6 +11,7 @@ anno: 1899
 builtby:
 skydd: SR
 skydd67: AI, C, C
+imgmap: "557,96,565,127"
 ---
 ## Gårdens Historia
 

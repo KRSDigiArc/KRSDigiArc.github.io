@@ -27,11 +27,12 @@ imgmap: "611,161,620,175"
 ## Gårdens historia
 
 ## Byggnadsinventering <a href="/sources/keinanen_karki.pdf">v.1967</a>
-1. Pitkänurkkainen asuinrakennus 1800-luvulta, rakennettu kahdesta erillisestä rakennuksesta, peiterimalaudoitus,
-aumakatto. A, MB / MC
-2. Pitkänurkkainen ulkorakennus, peiterimalaudoitus. B
+1. Bostadshus med knutskallar från 1800-talet, ihopbyggt att två separata byggnader, lockläktspanel, valmat tak.A, MB / MC
+2. Uthus med knutskallar, lockläktspanel. B
 
 ## Läget idag
-Sama kuin 1967
+Byggnaderna som 1967
 
 ## Ritningar och ändringar
+
+## Mänskor och händelser

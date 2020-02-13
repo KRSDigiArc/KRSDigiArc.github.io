@@ -29,4 +29,6 @@ imgmap: "476,69,480,82"
 ## Situationen i dag
 
 
-## Ritningar
+## Ritningar och ändringar
+
+## Mänskor och händelser
