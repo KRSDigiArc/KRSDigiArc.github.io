@@ -16,6 +16,7 @@ skydd: SR, SR
 skydd67: A, A
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "491,120,494,144"
 ---
 ## Gårdens Historia
 

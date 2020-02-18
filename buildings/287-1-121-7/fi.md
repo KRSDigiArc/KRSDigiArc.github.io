@@ -3,7 +3,7 @@ layout: building
 lang: fi
 title: Konsulatet
 fastighetsnr: 287-1-121-7
-gardsnr1842: 7
+gardsnr1842: 6
 fastighetsnrKeinanen: I/21/1
 stadsdel: 1
 address:
@@ -11,12 +11,15 @@ address:
     num: 76
   - street: Rantakatu
     num: 75
-anno: 9999
+  - street: Uusikatu
+    num: 2
+anno: 1899.9
 builtby:
 brandforsakring:
-skydd:
-skydd67:
-
+skydd: SR, SR, SR
+skydd67: A, A, A
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
 ## Talon Historia
 

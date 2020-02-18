@@ -3,7 +3,7 @@ layout: building
 lang: sv
 title: Västra Långgatan 30
 fastighetsnr: 287-1-122-1043
-fastighetsnr67: I/22/8
+fastighetsnrKeinanen: I/22/2
 gardsnr1842: 43
 stadsdel: 1
 address:
@@ -13,9 +13,10 @@ anno: 1899.9
 builtby:
 brandforsakring:
 skydd: SR
-skydd67:
+skydd67: A, A, B
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "497,121,502,144"
 ---
 ## Gårdens Historia
 

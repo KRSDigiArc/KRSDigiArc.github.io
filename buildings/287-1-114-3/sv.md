@@ -16,9 +16,9 @@ builtby:
 skydd: SR
 skydd67: A, B
 img: streetview2009.png
+img_caption: Google Streetview 2009
 brandforsakring:
 www:
-img_caption: Google Streetview 2009
 instagram:
 facebook:
 imgmap: "611,161,620,175"
