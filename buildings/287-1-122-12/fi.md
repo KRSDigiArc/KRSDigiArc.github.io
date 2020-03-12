@@ -15,6 +15,8 @@ anno: 1848
 builtby: Lagerstam
 skydd: SR, SR
 skydd67: A, B
+img: streetview2009.png
+img_caption: Google Streetview 2009
 ---
 
 ## Talon historia

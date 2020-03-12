@@ -16,13 +16,14 @@ skydd:
 skydd67: AI, B
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "481,131,487,143"
 ---
 ## Gårdens Historia
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Lyhytnurkkainen asuinrakennus 1800-luvulta, peiterimalaudoitus, satulakatto, pihan puolella tiilinen lämpökeskus. AI,MA
-2. Ulkorakennus osaksi hirsistä, osaksi lautaa, peiterimalaudoitus. B.
+1. Bostadshus med slätknut från 1800-luvulta, lockläktspanel, sadeltak, värmecentral i tegel på gårdssidan. AI,MA
+2. Uthusbyggnad delvis timrad, delvis bräder, lockläktspanel. B.
 
 ## Situationen i dag
 

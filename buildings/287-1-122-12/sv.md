@@ -15,6 +15,9 @@ builtby: Lagerstam
 brandforskaring:
 skydd: SR, SR
 skydd67: A, B
+img: streetview2009.png
+img_caption: Google Streetview 2009
+imgmap: "464,128,469,140"
 ---
 
 
@@ -23,7 +26,7 @@ Gård 48 har spjälkts upp i fastigheterna 122-13 och 122-12, Västra Långgatan
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Pitkänurkkainen asuinrakennus 1800-luvulta, leveä uurrettu vaakalaudoitus, satulakatto. A, MA / MAI
+1. Bostadshus med knutskallar från 1800-talet, bred uurrettu vaakalaudoitus, satulakatto. A, MA / MAI
 2. Ulkorakennus, peiterimalaudoitus B
 
 

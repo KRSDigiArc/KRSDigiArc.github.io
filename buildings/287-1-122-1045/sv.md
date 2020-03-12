@@ -16,6 +16,7 @@ skydd: SR, SR
 skydd67: B
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "536,124,562,151"
 ---
 <img src="streetview2009_south.png" width="400px">
 
