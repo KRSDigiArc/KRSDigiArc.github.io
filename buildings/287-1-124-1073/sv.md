@@ -31,4 +31,4 @@ img_caption: Google Streetview 2009
 ## Ritningar
 
 
-## Mänskor och händelser
+## Människor och händelser

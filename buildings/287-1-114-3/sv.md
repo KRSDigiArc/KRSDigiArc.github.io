@@ -35,4 +35,4 @@ Byggnaderna som 1967
 
 ## Ritningar och ändringar
 
-## Mänskor och händelser
+## Människor och händelser

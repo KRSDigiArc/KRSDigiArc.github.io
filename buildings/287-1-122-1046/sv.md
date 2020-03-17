@@ -32,4 +32,4 @@ Byggnaderna som år 1967
 
 ## Ritningar
 
-## Mänskor o händelser
+## Människor o händelser

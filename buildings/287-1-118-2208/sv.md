@@ -31,4 +31,4 @@ imgmap: "476,69,480,82"
 
 ## Ritningar och ändringar
 
-## Mänskor och händelser
+## Människor och händelser

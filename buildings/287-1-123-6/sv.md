@@ -11,7 +11,7 @@ address:
     num: 8
 anno: 9999
 builtby:
-skydd:
+skydd: SR, SR
 skydd67:
 img:
 brandforsakring:
@@ -19,6 +19,7 @@ www:
 img_caption:
 instagram:
 facebook:
+imgmap: "444,116,452,125"
 ---
 
 ## Gårdens historia
@@ -30,4 +31,4 @@ facebook:
 
 ## Ritningar och ändringar
 
-## Mänskor och händelser
+## Människor och händelser

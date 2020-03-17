@@ -33,4 +33,4 @@ Byggnaderna som 1967
 ## Ritningar
 
 
-## Mänskor och händelser
+## Människor och händelser
