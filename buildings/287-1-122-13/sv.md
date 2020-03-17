@@ -16,14 +16,15 @@ skydd: SR
 skydd67: A
 img: streetview2009.png
 img_caption: Google Streetview 2009
+imgmap: "471,128,477,142"
 ---
 
 ## Gårdens Historia
 Gård 48 har spjälkts upp i fastigheterna 122-13 och 122-12, Västra Långgatan 26 A o B.
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Pitkänurkkainen asuinrakennus, runko-osa rakennettu 1820, vinkkeli myöhäisempi, runko-osassa peiterimalaudoitus, vinkkeliosassa sekundaarinen kapea peiterimalaudoitus, satulakatto. A, MA
-2. Pitkänurkkainen ulkorakennus, peiterimalaudoitus, satulakatto. B
+1. Bostadshus med knutskallar, huvuddelen byggd 1820, vinkeln senare, huvudflygeln med lockläktspanel, vinkeln med sekundär smal lockläktspanel, sadeltak. A, MA
+2. Uthus med knutskallar, lockläktspanel, sadeltak. B
 
 ## Situationen idag
 

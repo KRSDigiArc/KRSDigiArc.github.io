@@ -4,7 +4,7 @@ lang: fi
 title: Läntinen Pitkäkatu 26B
 fastighetsnr: 287-1-122-13
 fastighetsnrKeinanen: I/22/10
-nr1842: 48
+gardsnr1842: 48
 stadsdel: 1
 address:
   - street: Läntinen Pitkäkatu
