@@ -23,11 +23,14 @@ imgmap: "516,172,523,188"
 
 
 ## Byggnadsiventering år <a href="/sources/keinanen_karki.pdf">1967</a>
-1. Lyhytnurkkainen asuinrakennus 1800-luvulta, uudelleenvuorattu n. 1950, ikkunat uusittu, satulakatto.C, MAI
-2. Ulkorakennus, osittain hirsistä, osittain laudoista, osittain lomalaudoitettu, osittain vaakalaudoitettu. B
-3. Sauna, peiterimalaudoitus,
+1. Bostadshus med slätknutar från 1800-talet, brädfodringen förnyad ca. 1950, fönstren utbytta, sadeltak. C, MAI
+2. Uthus, delvis timrat, delvis bräder, delvis lockläkt, delvis liggande panel. B
+3. Bastu, lockläktspanel.
 
 ## Situationen i dag
 
 
-## Ritningar
+## Ritningar och ändringar
+
+
+## Människor och händelser

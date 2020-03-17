@@ -29,4 +29,6 @@ img_caption: Google Streetview 2009
 ## Nykytila
 
 
-## Piirustukset
+## Piirustuksia ja muutoksia
+
+## Ihmisiä ja tapahtumia

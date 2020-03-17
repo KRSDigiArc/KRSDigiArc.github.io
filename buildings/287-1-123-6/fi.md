@@ -11,7 +11,7 @@ address:
     num: 8
 anno: 9999
 builtby:
-skydd:
+skydd: SR, SR
 skydd67:
 img:
 brandforsakring:
@@ -29,4 +29,4 @@ facebook:
 
 ## Ritningar och ändringar
 
-## Mänskor och händelser
+## Människor och händelser

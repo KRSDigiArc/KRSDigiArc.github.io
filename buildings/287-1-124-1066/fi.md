@@ -3,6 +3,7 @@ layout: building
 lang:   fi
 title:   Hannus
 fastighetsnr: 287-1-124-1066
+fastighetsnrKeinanen: I/24/66
 gardsnr1842: 66
 stadsdel: 1
 adress: Läntinen Pitkäkatu 51
@@ -13,6 +14,7 @@ skydd: SR
 skydd67: AI, B, C
 img: streetview2009.png
 img_caption: Google Streetview 2009
+
 ---
 ## Talon historia
 
@@ -24,4 +26,6 @@ img_caption: Google Streetview 2009
 ## Nykytila
 
 
-## Piirustukset
+## Piirustuksia ja muutoksia
+
+## Ihmisiä ja tapahtumia
