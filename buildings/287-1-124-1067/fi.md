@@ -22,7 +22,7 @@ facebook:  gard67
 ---
 
 ### Talon Historia
-Talon rakennutti laivuri <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 ja vaimonsa Maria Holmudd. Talo laajennettiin 1844 ja pakarintupa rakennettii. Vuoden 1825 <a href="/maps/sundstedt1825/Grundrit_1.jpg">kaupunkikartassa</a> tontilla näkyy tuulimylly, mutta vuoden 1842 <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">kartasta</a> se puuttuu. Ilmeisesti se purettiin 1830 luvulla kun nykyiset rakennukset pystytettiin.
+Talon rakennutti laivuri <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 ja vaimonsa Maria Holmudd. Taloa laajennettiin 1844 ja pakarintupa rakennettiin. Vuoden 1825 <a href="/maps/sundstedt1825/Grundrit_1.jpg">kaupunkikartassa</a> tontilla näkyy tuulimylly, mutta vuoden 1842 <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">kartasta</a> se puuttuu. Ilmeisesti se purettiin 1830 luvulla kun nykyiset rakennukset pystytettiin.
 
 ### Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
 1. Pitkänurkkainen asuinrakennus, peiterimalaudoitus, rakennettu 1834 ja lisärakennuettu 1844, aumakatto. AI,MA pvk. 4931 invent.kert. OM
