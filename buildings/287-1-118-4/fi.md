@@ -23,9 +23,9 @@ instagram:
 facebook:
 ---
 
-### Talon Historia
+## Talon Historia
 
-### Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
+## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
 1. Lyhytnurkkainen asuinrakennus, uurrettu vaakalaudoitus,satulakatto. AI, MA
 2. Lyhytnurkkainen asuinrakennus 1800-luvun lopulta, uusrenessanssivuoraus, ikkunakehykset jugend-tyyliä, satulakatto. A, MB
 3. Lyhytnurkkainen ulkorakennus 1800-luvun lopulta. B
