@@ -1,7 +1,7 @@
 ---
 layout: building
 lang:   sv
-title:   Hannus
+title:   Talotuuma
 fastighetsnr: 287-1-124-1066
 fastighetsnrKeinanen: I/24/66
 gardsnr1842: 66
