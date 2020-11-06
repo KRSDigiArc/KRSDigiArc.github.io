@@ -1,27 +1,31 @@
-h1,h4,h5,h6 {
-    #font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-weight: 600;
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400&subset=latin,latin-ext);
+
+
+h1,h2,h3,h4 {
+    font-family: "Roboto Condensed", Helvetica;
+    font-weight: 700;
+    -webkit-font-smoothing: antialiased;
+    color: #555;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 700;
 }
 
 h2 {
-    #font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 20px;
-    font-weight: 600;
+    font-size: 24px;
+    font-weight: 400;
 }
 
 h3 {
-    #font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
     font-weight: 600;
 }
 
 body {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    #font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-    font-size: 14px
+    font-weight: 300;
+    font-size: 15px
 }
 
 .topbar {
@@ -53,4 +57,3 @@ body {
 
 .krs-brown,.krs-hover-brown:hover{color:#000!important;background-color:#d3cab2!important}
 .krs-pink,.krs-hover-pink:hover{color:#000!important;background-color:#ccb1a6!important}
-
