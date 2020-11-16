@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+{% include main.html %}
+
+  <h1>{{ page.title }}</h1>
+    <table>
+    <tr>
+      <td>
+        <table cellpadding="0" cellspacing="0">
+          <tr><td><img src="{{ page.img }}" width="400px"> </td></tr>
+          <tr><td><p style="font-size:10px">{{ page.img_caption }} </p></td></tr>
+        </table>
+      <td>
+      {% if page.lang == 'sv' %}
+        <table>
+          <tr> <th>Namn</th> <td>{{ page.title }}</td> </tr>
+          <tr> <th>Född</th> <td>{{ page.born }} {{ page.bornin }}</td> </tr>
+          <tr> <th>Död </th> <td>{{ page.died }} {{ page.diedin }}</td> </tr>
+          <tr> <th>Far </th> <td>{{ page.father }} </td> </tr>
+          <tr> <th>Mor </th> <td>{{ page.mother }} </td> </tr>
+      {% else %}
+        <table>
+          <tr> <th>Nimi</th> <td>{{ page.title }}</td> </tr>
+          <tr> <th>Syntynyt</th> <td>{{ page.born }} {{ page.bornin }}</td> </tr>
+          <tr> <th>Kuollut </th> <td>{{ page.died }} {{ page.diedin }}</td> </tr>
+          <tr> <th>Isä </th> <td>{{ page.father }} </td> </tr>
+          <tr> <th>Äiti </th> <td>{{ page.mother }} </td> </tr>
+        </table>
+       {% endif %}
+      </td>
+    </tr>
+  </table>
+
+      {{ content }}
+
+</div>
+</body>
+</html>

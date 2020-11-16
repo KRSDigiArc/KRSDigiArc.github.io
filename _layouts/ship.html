@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+{% include main.html %}
+
+  <h1>{{ page.title }}</h1>
+    <table>
+    <tr>
+      <td>
+        <table cellpadding="0" cellspacing="0">
+          <tr><td><img src="{{ page.img }}" width="400px"> </td></tr>
+          <tr><td><p style="font-size:10px">{{ page.img_caption }} </p></td></tr>
+        </table>
+      <td>
+      {% if page.lang == 'sv' %}
+        <table>
+          <tr> <th>Namn</th> <td>{{ page.title }}</td> </tr>
+          <tr> <th>Typ</th> <td>{{ page.type }}</td> </tr>
+          <tr> <th>Byggd </th> <td>{{ page.built }} {{ page.builtin }}</td> </tr>
+        </table>
+      {% else %}
+        <table>
+          <tr> <th>Nimi</th> <td>{{ page.title }}</td> </tr>
+          <tr> <th>Tyyppi</th> <td>{{ page.type }}</td> </tr>
+          <tr> <th>Rakennettu </th> <td>{{ page.built }} {{ page.builtin }}</td> </tr>
+        </table>
+       {% endif %}
+      </td>
+    </tr>
+  </table>
+
+      {{ content }}
+
+</div>
+</body>
+</html>

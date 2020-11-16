@@ -1,0 +1,277 @@
+---
+layout: building
+lang:   fi
+title:  Krepelin
+fastighetsnr: 287-2-247-1144
+fastighetsnrKeinanen: II/47/144
+gardsnr1842: 144
+stadsdel: 2
+address:
+  - street: Itäinen Pitkäkatu
+    num: 47
+  - street: Läntinen Pitkäkatu
+    num: 8
+anno: 1812
+builtby: Holmström, Anders Z.
+skydd: SR,SR,SR,SR
+skydd67: B, A, AI, AI, B
+img: krepelin1870.jpg
+img_caption: Bild tagen 1870 (källa?)
+brandforsakring: 76
+www: https://www.krepelin.fi
+instagram: https://www.instagram.com/hotelli_krepelin/
+facebook: https://www.facebook.com/hotellikrepelin
+---
+
+# "Intro"
+Päärakennuksen rakennutti vuonna 1812 kauppias Anders Z. Holmström ja sen tyylissä näkyy vaikutteita eurooppalaisesta uusgotiikasta. [Carl Wilhelm Kräpelin](/people/kräpelin_carl_wilhelm/fi) oli syntynyt Tukholmassa vuonna 1823 ja tuli Kristlinankaupunkiin Kokkolasta vuonna 1846. Kräpelin aloitti ensin Simon Anders Wendelinin kirjannitäjänä ja siirtyi jonkin ajan kuluttua pitämään omaa kauppaliikettä Holmströmin taloon. Holmströmin kuoltua vuonna 1849 talo siirtyi Kräpelinin haltuun. Pihapiiri tunnetaan Krepelinin nimellä, vaikka sillä on kandensadan vuoden aikana ollut monta omistajaa.
+
+# Rakennukset
+Päärakennuksesta oikealla ensimmäisenä sijaitseva ”Pakari” eli leivintupa rakennettiin 1815, kaksikerroksiset makasiinit vasemmalla vuosina 1806 ja 1816 ja oikealla olevat varastot ja liiteri 1811 ja 1870.
+
+## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
+1. 2-kerr. lyhytnurkkainen asuinrakennus vuodelta 1812, sekundaarinen vuoraus, eteläpäässä primaarinen uurrettu vaakalaudoitus, satulakatto , pihafasadissa 5-kulmainen uusgoottilainen kuisti n.1860. B, MB. Palovakuutuskirja  76, inventointikertomuksia KM38
+2. Pitkänurkkainen hirsirakennus, pakaritupa, rak.1814, peiterimalaudoitus, satulakatto, mustat lasitetut kattotiilet. A
+3. Pitkänurkkainen aitta, rak. 1815, peiterimalaudoitus, satulakatto, mustat lasitetut kattotiilet. AI
+4. Ulkorakennusrivi 1806 ja 1816, pitkänurkat, peiterimalaudoitus, satulakatto. AI
+5. Pitkänurkkainen ulkorakennus, peiterimalaudoitus, satulakatto. B
+
+## Nykytila
+Rakennukset kuten 1967
+
+## Palovakuutuskirjat
+
+## Piirustuksia ja muutoksia
+
+# Ihmisiä ja tapahtumia
+Carl Wilhelm Kräpelin oli syntynyt Tukholmassa vuonna 1823 ja tuli Kristiinankaupunkiin Kokkolasta vuonna 1846.
+
+Kräpelin aloitti ensin Simon Anders Wendelinin kirjanpitäjänä ja siirtyi jonkin ajan kuluttua pitämään omaa kauppaliikettä Holmströmin taloon. Holmströmin kuoltua vuonna 1849 talo siirtyi Kräpelinin haltuun.
+
+## Henkikirjoja
+
+# Galleria
+
+
+Lähteet:
+Jarl e, P-0, Kri3tinestad.s by:;~na- 'ishis toria. "{ris tiinan ~caupungin :uais t-
+raatti, palova~uutu3~drjat n: o 76(v.1834 ja 1846). Tar:non ar~-c., VA.
+ta,j at:
+vuonna 1834 tontin O'nisti 'cauppias A. Z.Hol:n.strö:n.. r.<:auppias ;.::. J .
+Kraepelin olli3ti tontin pv:c: n 1.ukaan 1856 .j a hjnen !IJ.u:caansa pilf:lra-
+kennusta sanot~an~in usein Xraep8linin taloksi. V 1901 tontti oli
+merimies Aniers La-3erin hallussa ja v.1916 se ~cuului panirn.o;nestari
+S. K • .3kadelle ja tämän jälkeen Iansallis~cauppa Oy Sa•n-nolle.
+O~i 3
+Tontti.
+Tontin n: o vuoden 1825 karta:3sa on 141.1-. Tontti on itä-länsi-suun-
+tainen ja suorakaiteen~uotoinen ulottuen It.Länti3elle Pitkälleka-
+dulle. Tontti on ~uita tä~än korttelin tontteja suurempi.
+Päärakennus on tontin itälaidalla It.Pitkäkadun varrella, ulkora-
+kennusrivit ovat tontin et elä-ja pohjoissivulla ja ulottuvat pää-
+rakennulc-;;esta Länt. Pi tkälcad.ulle. Sisäänkäynti tontille on alunpe-
+rin ollut vain Länt.Pit~äkaiulta.
+
+## Päärakennus
+on pvk:n :nukaan rakennettu 1812 ja vuorattu 1 813 sek1 maalattu pu-
+navärillä. Talo on kaksikerroksinen, hirsistä rakennettu asuinra~en­
+nus.J.akennusta kattaa satulakatto, joka on tehty 1900-luvun alku-
+puolella, kun alkuperäinen ~ansardikatto poistettiin. J.akennuksen
+vuoraus on uusittu 1900-luvun alussa aiica ikävän ni.ik::5iseksi. Ny-
+kyinen väri on vaalean harmaa.
+
+## Kivijalka on harmaa kivikvaadereista, jotka kylmä:nuurauksella on lii-
+tetty toisiinsa. Kvaa1erien koko on (100-230 )x35x55 c:n. It. Pitkä-
+kar'iun fasadissa kivijalan korkeus on 140-160 cm. Kivijalassa on
+kolme n.25x20 cm suurui3ta tuuletusaukkoa. Samoin katufasadin ki-
+vijalassa on oviaukko I-kerrokses3a olevaan myynälään.
+
+Pihan puolella Kivijalka on eteläo3assa kvaadereista (2 kpl) ja
+muualla lohk~~j~ lu~~~~nkivistä muurattu. Kuistin mole~min puolin
+on portaat kellareihin. Pohjoispuoleinen kellari on al~uperäinen,
+etelänpuoleinen on uusi.
+Eteläpäädyssä kivijalan korkeus on 100-150 cm, se on kvaadereista
+kuten :ny~s pohjoispäädyssä. Täällä kivijalka on roiskerapattu.
+Kellarit.
+Rakennuksen pohjoisosassa oleva kellari on alkuperäinen. Se on tii-
+listä holvattu ja rapattu. Kellarissa on laakea tynnyriholvi. Kel-
+larin koko on 440x370x200 cm. Katossa kaksi lihanriiputuskoukkua I""
+_ c --. ,·'
+ja itäseinässä on nelikulmainen syvennys.
+Eteläpuoleinen kellari on tehty 1900-luvulla keskuslämmityksen pan-
+nuhuoneeksi •
+.l!,asadi t •
+. fasadi t on uuielleenvuorattu 1900-luvun alussa, jolloin my~s ny~;:yi­
+nen satulakatto tehtiin. Vanhasta valokuvasta päätellen (I1yllinen
+Kristiinankaupunki s.47) lienee rakennug 1800-luvulla ollut valke-
+aksi ~~p~ttu. Toisaalta eteläpäädyssä oli mansardikaton aikainen
+vaakalaudoitus.
+It.Pitkäkadun fasadi jakaantuu vertikaalisesti neljään vyöhykkee-
+seen. Ali·n:nan rnuodos taa 90 C'TI. korkea pys tylaudoi tettu vyöhyke, joka
+ulottuu viistosta vesilistasta il:cl~unoi tten alapuolelle. Toinen vyö-
+hyke on vaakalau1oitettu ja ulottuu toisen kerroksen ikkunoitten
+yläreunan tasalle. '{olmas vy::Shy~~e on pystylau1oi tettu :~uten ensim-
+mäinenkin. Neljäs, ark~itraavivyöhyke on vaakalau~o it ettu.
+Ikkuna-akseleita ~asadissa on 7. Pohj.lukien 1,2 ja 3. ikkuna ovat
+säännöllisin etäisyyksin toisistaan ja 4 seuraavaa muodostaa kaksi
+kahden ikkunan ryhmää . Alakerrassa on 5.ikkuna-akselissa ovi ja
+eteläisimmän ikkunaparin kes~ellä 1 ikkuna. Ullakkoikkunoita on
+arYci traavissa akseleilla 7.
+1
+• . /
+-t:/7'
+• • · - - ... ,
+Suoneikkunat ovat kooltaan
+• Ne ovat 4-ruutuisia ja -keh;ykse-t-
+muo1ostavat latinalaisen ristin. Ullak:.Coi~~kuna t ovat 2-ruutuisia.
+Kaik~d fasadin ikkunankehykset ovat sileää lautaa.
+Fasadin kol1ne alinta vyöhykettä jakaa pystylau1at viiteen verti-
+kaalivyöhy~keeseen. Onko n:-lissä mahdollisesti pi tk:änurkat en saa-
+nur var:nuutta.
+Poh,ioispääty on vaakalau·'loitettu n. 9cm leveällä uurretulla lau'lal-
+la. Keskellä satulakaton kol~iopäätyä on 6-ruutuinen ikkuna, jossa
+on 1800-luvun ~culmaraudat.
+
+3teläpääty on vaakalau:ioitettu n.18-19 cm leveällä uurretulla lau-
+dalla, joasa uurros on suora~ulmainen. Tässä päärlys s ä vuoraus on
+muita vanhempi. Ylhäällä ~ato~rajassa on vuorauksessa kulmissa
+sauma, joka osoittaa ent. mansardikaton alalappeen paikan.
+Päädyssä on keskellä ulla~ckoka:narin ikkuna sekä I-kerroksessa kes-
+kiakselin itäpuolella sekunnaari ikkuna. Ik~unan~ehykset ovat si-
+leää lautaa. Ulla:c'-coikkunan lculmarauiat ovat 1800-luvun tyyppiä.
+Pihafasadia hallitsee keskellä lautarakenteinen, 5-kulmainen kuisti.
+Sekä kuisti että runko-o3a on lau1oitettu 9 c~ leveällä uurretulla
+puoliponttilauialla (Uurros laudassa on loivasti kaartuva). Tämä
+laudoitus ulottuu vesilistasta arkkitraaviin, joka on vaakalauioi-
+tettu kuten katufasadissakin.
+Fasadin jakaa vertikaalivyöhykkeisiin seinästä n.5 cm ulkonevat
+pystylaudoitetut pilasterit, mahdollisesti pitk~inurkat (kts.katu-
+fasadi). Ik~una-akseleita on 6. Pohj.lukien 3. jää kuistin sisälle
+ja siinä on ovet. 4. akselilla on alakerrassa ovi.
+Kuisti on 5-sivuinen, tasakattoinen ja kaksikerroksinen. Vy~lista
+jakaa kuistin kahteen osaan. Kuisti on uus3oottilaistyylinen suip-
+pokaarisine ikkunoineen ja ovineen. Ala~errassa on keskellä ovi
+ja sen eteläpuolella sivulla ikkunapari, jotka tosin ulkopuolelta
+on peitetty kovalevyllä. Toisessa kerrokses sa on myös keskel l ä ovi,
+jonka eteen on tehty sekun1aari parveke. !Jluilla neljällä sivulla
+on i~ckunapari t. :3 amanlainen suippokaarinen ovi on toisessa kerrok-
+sessa myös kuistista huoneeseen.
+Ik:cunoi tten ja ovien yläosan muodostaa suippokaarinen ikkuna, .jonka
+keskellä on rombi-kuvio ja sen :..Cul:ni.s sa ympyräkuvio. }{ow.bi on vaa-
+leanvihreää lasia j a y~pyrät violettia lasia. Ikkunat ovat 6-ruu-
+tuisia ja viistot poikkipiena t .ja~cava t ruudut vielä neljään osaan.
+Lähes samanlainen on kuisti ollut ent.kapteeni Ekmanin talos s a
+(Kansallismuseon kuva 43034).
+Sisätil at on uusittu t fiy·i elli3#sti, kun rakennuk'3essa toimi tuk 1 cu-
+kauppa. Alakerrasta on avattu leveä t portaat yläkertaan ja ~iinteä
+sisustus on uusittu. Ala:cerran huoneet on lautaseinillä jaettu
+pienempiin osiin.
+- Huonekorkeus on ala~errassa 270 cm ja yläkerrassa 290 c~.
+- Salin ~or:ceus yläkerrassa on 310 cm.
+Yläkerran ik:cunoi '3Sa on pro fil oi tu kehyslista (piirros).
+- Ylä~erra:lsa huo~eitten v älillä on pariovi (piir.), jollaisia ra-
+ken:1uk'3essa on ollut usea;:J.pia ,ja :nuutarrlia on vielä jäljellä ulla-
+:colla.
+- Huoneessa
+on va;1ha j al~calis ta (piirros).
+
+- Huoneessa
+on lces~ellä pohj oi 33 einää 1 70 c·n korkea rus::Cea jugend-
+uuni, muut uunit ovat pjnttSuuneja.
+Ullak:'-:co ja :~a ttora:centeet.
+Pääty ja väliseinät .on salvottu harjaan saak:ca. Kattolau.iat lepää-
+vät vuoliaisten v ara'33a. Tasa~cerra!l korkeus on ~0 cm ja tästä ylös-
+päin n. 40 crn on ar~c'.{:i traavi riiys tä ~i s een saa'.<:ka lau1oi :; ta. Tässä
+o.sassa on nylcyi s et ulla :c'coi~c'.cuna t ( 90x35 c-m). Väli-:; einä t ja pää-
+tyseinät on sivuilta viistot al~uperäi-::;en ·1ansar·:l i~caton lappeen
+---··-·
+.
+·---
+mukaan. Til~keenä on ra~en~uk3essa käytetty sa~~alta.
+J~akennushi -:;toria
+Talo on rakennettu 1812. Täll~in se oli ma~sardikattoi~en. ~ykyi­
+nen .kuisti lienee 180<')-luvun jälkirn."läiseltä puolis':colta. ;.take~nuk­
+sen ny~yinen vuoraus sekä satulakatto ovat vuosisadan vaihteen tie-
+noilla tehty.
+':::a 1 .cen:1us 2. Entinen p'l':<:ari tupa ja ren·:.c ikamari, J o.cea nyt on varasto-
+ra1cennuk3ena. 3e on pv:-c:n 11ukaan ra:cennettu '18'14. Talo on 1-l:Cerrok-
+sinen, sa tula~cattoinen, pi tk:änur:calle salvottu hirsira~cennus . 3a-
+lcennuksessa on en·:1 en ollut rnansar:ii'..catto, joka 1900-luvun alussa
+muutetti i~1 satula'ca to·csi. Täll.i i-1 ·nuutettii'1 :nf5s lauta'catto 11US-
+tiin lasitettuihin tiiliin, jotka lienevät peräisin päJraiennuks en
+katosta.
+Kivijalka on n. 40 cm 1corkea ja se on sementillä rapattu paitsi
+pohjoisfasa1issa, jo3sa icivijal'.ca on luonnon·civistii.
+Fasadit on pystyrimalaui.oitettu ja punamullattu.
+Eteläfasadin jakavat laud.oi tetut pi tlönurka t kolmeen osaan. Keskim-
+mäisessä osassa on ovi eteiseen ja '!lolemn.issa muissa on Lc~cuna.
+Pystyrimalau-loi tus ulottuu ~civi,jalasta ar'oc:ci traaviin, joka on vaa-
+kalaud.oi tettu. Ar::Ck:i traavissa on 3 ulla·:e~coi:Ckunaa • ..:i..r~ki traavin
+korkeus on n. 70 crn. Pystyrimalau'ioi tuksessa lautojen leveys on
+20-25 cm ja ri1nojen 5-6 cm. Vuoraus on k iinnitetty suurikantaisil-
+la taotuilla nauloilla.
+Pohj oisfasadi on pys tyri·nalau.i .oi tettu ja vuor aus on kiinnitetty
+tehdasnauloilla.
+Itäpääty on pystyri~alau1oitettu aina r äystää seen saakka. vuoraus
+on tehty eteläfa.sadin vuorqusta myöhe~·nin j a se on 'ociin!litetty
+hirsiseinään tehdasanuloilla. Itäpääiyssä on keskellä 6-ruutuinen
+L c'cuna. Ikkunanpuitteissa on jälj ellii vanhojen 1 .cul-n.arautoj en kannat.
+:ceskellä on my::> s 4-ruutuinen ulla:c~coLckuna. Pää 1yn lau·l.o i tus on
+
+tehty ennen m.an.sar·.l .ikaton poista.J.L;ta sillä vuorattksessa näkyy viis-
+to sauma.
+Länsipäi.J. ty on pyst;yri··1 alau.Joi tettu.
+Pohjakaava ja sisätilat
+Pohjakaava on paritupa, jossa läntinen huone on ollut pa:caritupa
+ja itäinen renki1ca'llari. Keskellä on eteinen ja piene:npi kamari.
+Huone 1 on ent. pa~aritupa, jonka ~oillisnurkassa on lähes puolet
+lattiasta täyttävä leivinuunin sementtiperusta. Tämä perusta on
+suurennettu nykyiseen kokoonsa 1925. Lattia on 18-20 vm leveistä
+laudoista. Seinissä on helmipontti panelointi. Huoneen korkeus on
+245 cm. Poikittaiset kattolaudat lepäävät 80-90 vm välein toisis~
+taan olevien kattoå'f~)m varassa. Kattolau·i .at ovat 25-35 cm le-
+veitä.
+Huone 2 on ikkQ~aton ~amari. 3en koillisnurkassa on ollut uuni,
+joka oli poistettu.
+Huone 3 on ent. ren~ikamari. auone~orkeus on 260 cm. Länsiseinässä
+on ovi eteiseen sekä se~cundaari ovi huoneeseen 2. Huoneessa oli
+tapettien alla hirsiseinässä sinisenharmaa maalaus.
+Eteishuoneesta on luukkuuliakoile sekä ovi huoneisiin 1,2 ja 3.
+Tapettien alla oli hirsiseinä valkoiseksi kalkittu.
+Vesikatto oh :nu~tista la3itetuista kattoliilistä. ~attolaudat le-
+päävät 5 vuoliais en varassa. '.rasaker:ba on r en~ci tuvan ~.cohd.alla la t-
+tian tasolla. Länsiosassa tasa~erran korkeus on 45 cm. Tässä osassa
+on ilmeisesti vähe·nmän lattia täytettä kuin itäosassa. Ark~ci traavi
+on laud.oista .ja laudat on naubattu n. 1 m v~-i.lein oleviin pystyhirsiin.
+Pääty ja väliseinät on salvottu harjaan saa~ka. narjan ~orkeus on
+n. 250 cm. Pääty ja väliseinissä näkyi mansardikaton muoto.
+Ullakon lattiatäytteenä oli hiekka.
+Ikkunat sekä eteläfasadissa että i täpä~-idyssä ovat 6-ruutuisia ja
+niissä on 1800-luvun kulmarau1a t. I lckunoi tten koko on n. 100x140 cm.
+
+"Steläine'l ulkora~cen r1usrivi muodostuu kolmesta erillisestä rakennuk-
+s8sta. I-osassa on aitta, II-osassa ~akasiini ja III-os~ssa ~aka­
+siineja, talli ja käymälä. Tä~ä osa ulottuu aina Länt.Pitkäka~ulle
+saakka.
+I-osa on aitta. Se on kaksikerro:csinen pi tki:inurkalle sal vottu hir-
+sira:cennus. Rakennu_ic·::; en pohjois-ja länsisivut on :PYS tyrimalau'ioi-
+tettu, ;nuilla sivuilla ei ole laudoi tusta. 1.la'tcent1U:3ta kattaa sa-
+tulakatto ja kateaineena on mu0tat lasitetut kattotiilet. Rakennus
+on perinteellistä tyyppiä oleva aitta, .jossa alakerros on ylempää
+n. 30 c:n :.Capea:npi ja yläkerta lllUOd.ostaa "katoksen 11 o
+Kivijalkaa ei varsinaisesti ole vaan rakennus on hirsistä tehdyn
+tukirakenteen päällä. Aitassa ei ole ikkunoita. Ovi on pohjoissi-
+vulla ja toisessa kerroksessa on t ärnän yläpuolella luukku.
+II-osa ja III-osa liittyvät toisiinsa yhtenäisellä pystyllä peite-
+rimalaudoituksella, joka on kiinnitetty seinään tehdastekoisilla
+nauloilla. II-osassa on 1 makasiini. III-osassa on suorak~iteen­
+muotoinen rakennus jaettu väliseinillä neljä~n osaan. Lisäksi on
+eteläpäähän myöhemmin rakennettu osa, joka on toiTTI.inut myy~älänä.
+Tässä on ltaksi i~kunaa Län t. Pi tkäkadulle. Ik:-cunan koko on 90-200 cm,
+oven 90-200 cm. Ik~unassa on sisäpuolella luukut, joissa on lehti-
+saranat.(piir.) Tässä osassa katto olJ. länsipäi-idyssä aumattu.
+Tontin poh .ioislai~alla on lisäksi ulkorakennusrivi pakari tuvan vie-
+ressä. Nämä ovat pi tki:i nurkalle salvottu.ja hirsistä rakennettuja
+vajoja.
+Länsipäässä on lisäksi kaksi lautarakenteista uutta vajaa.
+Ulkorakennukset tullaan siirtämään 11useoon Lebellin talon tontille.
