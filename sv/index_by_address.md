@@ -13,7 +13,7 @@ layout: home
 {%- endfor %}
 </p>
 {% for street in streets %}
-  <h3><a name="{{street}}">{{ street }}</a></h3>
+  <h2><a name="{{street}}">{{ street }}</a></h2>
   <p>
   {% for sitepage in site.pages %}
     {%- if sitepage.layout == 'building' %}
