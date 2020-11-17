@@ -16,7 +16,7 @@ builtby: Holmström, Anders Z.
 skydd: SR,SR,SR,SR
 skydd67: B, A, AI, AI, B
 img: krepelin1870.jpg
-img_caption: Bild tagen 1870 (källa?)
+img_caption: Kuva vuodelta 1870 (lähde?)
 brandforsakring: 76
 www: https://www.krepelin.fi
 instagram: https://www.instagram.com/hotelli_krepelin/
