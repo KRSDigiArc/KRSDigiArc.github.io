@@ -1,5 +1,6 @@
 ---
-layout: building
+layout: inventointikertomus
+title: Inventointikertomus I/24/67
 ---
 I/24/6
 Läntinen Pitkäkatu 53
