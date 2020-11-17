@@ -13,7 +13,7 @@
       {% if page.lang == 'sv' %}
         <table>
           <tr> <th>Fastighets nr.</th> <td>{{ page.fastighetsnr }}</td> </tr>
-          <tr> <th>Gårdsnr. 1842</th> <td>{{ page.gardsnr1842 }}</td> </tr>
+          <tr> <th>Gårdsnr. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
           {% if page.anno == 1899.9 %}
           <tr> <th>Byggnadsår</th> <td>1800-tal</td> </tr>
           {% elsif page.anno == 9999 %}
@@ -40,7 +40,7 @@
       {% else %}
         <table>
           <tr> <th>Kiinteistö nro.</th> <td>{{ page.fastighetsnr }}</td> </tr>
-          <tr> <th>Talon nro. 1842</th> <td>{{ page.gardsnr1842 }}</td> </tr>
+          <tr> <th>Talon nro. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
           {% if page.anno == 1899.9 %}
           <tr> <th>Rakennusvuosi</th> <td>1800-luku</td> </tr>
           {% elsif page.anno == 9999 %}

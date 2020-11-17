@@ -6,7 +6,9 @@ fastighetsnr: 287-1-124-1066
 fastighetsnrKeinanen: I/24/66
 gardsnr1842: 66
 stadsdel: 1
-adress: Läntinen Pitkäkatu 51
+address:
+  - street: Läntinen Pitkäkatu
+    num: 51
 anno: 9999
 builtby:
 brandforsakring:

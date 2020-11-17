@@ -22,9 +22,11 @@ facebook:  gard67
 imgmap: "502,151,515,170"
 ---
 
-## Gårdens historia
-Huset byggdes av skeppare <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 med fru Maria. Huset utvidgades 1844 och bagarstugan byggdes till. På <a href="/maps/sundstedt1825/Grundrit_1.jpg">stadskarta från 1825</a> finns det inritat en väderkvarn på gården, medan den saknas på <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">1842 års karta</a>. Antagligen revs den då de nuvarande byggnaderna byggdes. Det är inte kännt vad det fanns för andra byggnader på Gård 67 före år 1834, men vilka som bodde här står att läsa i mantalslängderna.
+# "Intro"
+Huset byggdes av skeppare [Israel Holmudd](/people/holmudd_israel/sv) 1834 med fru Maria. Huset utvidgades 1844 och bagarstugan byggdes till. Gården ligger vid södra kvarnberget och på <a href="/maps/sundstedt1825/Grundrit_1.jpg">stadskarta från 1825</a> finns det inritat en väderkvarn på gården, medan den saknas på <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">1842 års karta</a>. Antagligen revs den då de nuvarande byggnaderna byggdes. Det är inte kännt vad det fanns för andra byggnader på Gård 67 före år 1834, men vilka som bodde här står att läsa i mantalslängderna.
+På 1870-talet övergick gården i släkten Weckströms ägo. Fyra generationer Weckström kom att bo här, bland dem [Åke Weckström](/people/weckström_åke/fi) som grundade Carlsro museum. Gården kallas av några Wecktrömska gården.
 
+# Byggnader
 ## Byggnadsinventering <a href="/sources/keinanen_karki.pdf">v.1967</a>
 1. Bostadshus med knutskallar, lockläkt, byggt 1834 utvidgat 1844, valmat tak. AI,MA brandförsäkring 4931 OM
 2. Bostadshus med knutskallar, före detta bagarstuga, lockläkt, byggt 1843, sadeltak. A

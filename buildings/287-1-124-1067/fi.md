@@ -21,20 +21,11 @@ instagram: gard_67
 facebook:  gard67
 ---
 
-## Talon Historia
-Talon rakennutti laivuri <a href="/people/holmudd_israel/sjoman.jpeg" rel="lightbox">Israel Holmudd</a> 1834 ja vaimonsa Maria Holmudd. Taloa laajennettiin 1844 ja pakarintupa rakennettiin. Vuoden 1825 <a href="/maps/sundstedt1825/Grundrit_1.jpg">kaupunkikartassa</a> tontilla näkyy tuulimylly, mutta vuoden 1842 <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">kartasta</a> se puuttuu. Ilmeisesti se purettiin 1830 luvulla kun nykyiset rakennukset pystytettiin.
+# "Intro"
+Talon rakennutti laivuri kapteeni [Israel Holmudd](/people/holmudd_israel/fi) 1834 ja vaimonsa Maria Holmudd. Taloa laajennettiin 1844 ja pakarintupa rakennettiin. Talo sijaitsee eteläisen myllykallion reunalla, ja vuoden 1825 <a href="/maps/sundstedt1825/Grundrit_1.jpg">kaupunkikartassa</a> tontilla näkyy tuulimylly, mutta vuoden 1842 <a href="http://localhost:4000/maps/gylden1842/0cfae1878bb069b5a9f45b3d78a1417d8786f003.jpeg">kartasta</a> se puuttuu. Ilmeisesti se purettiin 1830 luvulla kun nykyiset rakennukset pystytettiin.
+1870 luvulla talo siirtyi Weckströmien sukuun ja neljä sukupolvea Weckströmeitä tuli talossa asumaan, mm. [Åke Weckström](/people/weckström_åke/fi) joka tunnetaan Carlsron museon perustajana. Monet kutsuvat taloa Weckströmin taloksi.
 
-## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
-1. Pitkänurkkainen asuinrakennus, peiterimalaudoitus, rakennettu 1834 ja lisärakennuettu 1844, aumakatto. AI,MA pvk. 4931 invent.kert. OM
-2. Pitkänurkkainen asuinrakennus, entinen pakaritupa, peiterimalaudoitus, rakennettu 1843, satulakatto. A
-3. Pitkänurkkainen ulkorakennus, osittain lautaa, pystylaudoitus, satulakatto. B
-4. Vaja, pystylaudoitus. B
-
-Talosta lötyy laajempi inventointikertomus vuoden 1967 inventoinneista <a href="inventointikertomuksia">Inventointikertomuksia</a>
-
-### Nykytila
-Sama kuin vuonna 1967
-
+# Rakennukset
 ## Piirustuksia ja muutoksia
 <table>
   <tr>
@@ -76,11 +67,22 @@ Sama kuin vuonna 1967
 
 </table>
 
+## Rakennusinventointi <a href="/sources/keinanen_karki.pdf">v.1967</a>
+1. Pitkänurkkainen asuinrakennus, peiterimalaudoitus, rakennettu 1834 ja lisärakennuettu 1844, aumakatto. AI,MA pvk. 4931 invent.kert. OM
+2. Pitkänurkkainen asuinrakennus, entinen pakaritupa, peiterimalaudoitus, rakennettu 1843, satulakatto. A
+3. Pitkänurkkainen ulkorakennus, osittain lautaa, pystylaudoitus, satulakatto. B
+4. Vaja, pystylaudoitus. B
 
-## Ihmisiä ja tapahtumia
+Talosta lötyy laajempi inventointikertomus vuoden 1967 inventoinneista <a href="inventointikertomuksia">Inventointikertomuksia</a>
+
+### Nykytila
+Sama kuin vuonna 1967
+
+
+# Ihmisiä ja tapahtumia
 Israelilla ja Marialla oli yksi tytär Emelie (ainoa kolmesta joka selvisi aikuiseksi) sekä piika Maria ja myöhemmin renki Carl. Maria jää leskeksi 1862. Vähän ennen sitä taloon otetaan ensimmäiset vuokralaiset. 1870 luvun puolessavälissä talo siirtyy Weckströmin suvun haltuun ja vuokralaisten määrä kasvaa rajusti suuressa talossa sekä pakarintuvassa, mm. kalastaja Ingström ja entinen palovahti Karl Their ensimmäisten joukossa. Neljä sukupolvea Weckströmeitä tulee asumaan talossa, mm. Åke Weckström joka ostaa sisarustensa osuudet talosta. Åke ostaa myöhemmin myös eteläisen panimon, <a href="/buildings/287-1-123-6/fi.html">tontin nro. 37</a> Hållfastinkadulla sekä <a href="http://www.museiportalosterbotten.fi/museum-a-o-en/museum/5-carlsro-museum">Carlson huvilan</a> josta hän tekee museon.
 
-### Henkikirjoja
+## Henkikirjoja
 
 <table>
 <tr>

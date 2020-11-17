@@ -22,12 +22,11 @@ ovat tontin etelä-ja pohjoissivulla ja ulottuvat päärakennuksesta Länt. Pitk
 Sisäänkäynti tontille on alunperin ollut vain Länt.Pitkäkadulta.
 
 ## Päärakennus
-on pvk:n :nukaan rakennettu 1812 ja vuorattu 1 813 sek1 maalattu pu-
-navärillä. Talo on kaksikerroksinen, hirsistä rakennettu asuinra~en­
-nus.J.akennusta kattaa satulakatto, joka on tehty 1900-luvun alku-
-puolella, kun alkuperäinen ~ansardikatto poistettiin. J.akennuksen
-vuoraus on uusittu 1900-luvun alussa aiica ikävän ni.ik::5iseksi. Ny-
-kyinen väri on vaalean harmaa.
+on pvk:n mukaan rakennettu 1812 ja vuorattu 1813 sekä maalattu punavärillä.
+Talo on kaksikerroksinen, hirsistä rakennettu asuinrakennus. Rakennusta
+kattaa satulakatto, joka on tehty 1900-luvun alkupuolella, kun alkuperäinen mansardikatto poistettiin.
+Rakennuksen vuoraus on uusittu 1900-luvun alussa aika ikävän näköiseksi. Nykyinen väri
+on vaalean harmaa.
 
 ## Kivijalka
 on harmaa kivikvaadereista, jotka kylmä:nuurauksella on lii-

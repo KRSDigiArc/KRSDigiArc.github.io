@@ -4,7 +4,7 @@ lang:   sv
 title:  Krepelin
 fastighetsnr: 287-2-247-1144
 fastighetsnrKeinanen: II/47/144
-gardsnr1842: 209
+gardsnr1842: 144
 stadsdel: 2
 address:
   - street: Östra Långgatan

@@ -28,7 +28,7 @@
           </td> </tr>
 
         <tr> <th>Gård</th> <td><a href={% for p in site.pages %}
-                                          {% if p.gardsnr1842 == page.house and p.lang == 'sv' %}
+                                          {% if p.gardsnr1842 == page.house %}
                                              {{ p.url }}
                                           {% endif %}
                                         {% endfor %}>
@@ -43,18 +43,18 @@
           <tr> <th>Äiti </th> <td>{{ page.mother }} </td> </tr>
           <tr> <th>Puoliso </th> <td>{{ page.spouse }} </td> </tr>
           <tr> <th>Lapset </th> <td><a href={% for p in site.pages %}
-                                          {% if p.title == page.children and p.lang == 'fi' %}
-                                             {{ p.url }}
-                                          {% endif %}
-                                        {% endfor %}>
+                                              {% if p.title == page.children and p.lang == 'fi' %}
+                                                {{ p.url }}
+                                              {% endif %}
+                                            {% endfor %}>
                                    {{ page.children }}  </a>
           </td> </tr>
 
           <tr> <th>Talo </th> <td><a href={% for p in site.pages %}
-                                          {% if p.gardsnr1842 == page.house and lang == 'fi' %}
-                                             {{ p.url }}
-                                          {% endif %}
-                                        {% endfor %}>
+                                            {% if p.gardsnr1842 == page.house  %}
+                                              {{ p.url }}
+                                            {% endif %}
+                                          {% endfor %} lkj>
                                    {{ page.house }}  </a>
           </td> </tr>
         </table>
