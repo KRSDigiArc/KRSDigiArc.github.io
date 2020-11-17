@@ -57,3 +57,11 @@ body {
 
 .krs-brown,.krs-hover-brown:hover{color:#000!important;background-color:#d3cab2!important}
 .krs-pink,.krs-hover-pink:hover{color:#000!important;background-color:#ccb1a6!important}
+
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+  #content-desktop {display: none;}
+  #content-mobile  {display: block;}
+}
