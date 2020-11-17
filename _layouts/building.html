@@ -1,75 +1,75 @@
 <!DOCTYPE html>
 {% include main.html %}
 
-  <h1>{{ page.title }}</h1>
-    <table>
-    <tr>
-      <td>
-        <table cellpadding="0" cellspacing="0">
-          <tr><td><img src="{{ page.img }}" width="400px"> </td></tr>
-          <tr><td><p style="font-size:10px">{{ page.img_caption }} </p></td></tr>
-        </table>
-      <td>
+<h1>{{ page.title }}</h1>
+<table>
+  <tr>
+    <td>
+      <table cellpadding="0" cellspacing="0">
+        <tr><td><img src="{{ page.img }}" width="400px"> </td></tr>
+        <tr><td><p style="font-size:10px">{{ page.img_caption }} </p></td></tr>
+      </table>
+    <td>
       {% if page.lang == 'sv' %}
-        <table>
-          <tr> <th>Fastighets nr.</th> <td>{{ page.fastighetsnr }}</td> </tr>
-          <tr> <th>Gårdsnr. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
-          {% if page.anno == 1899.9 %}
-          <tr> <th>Byggnadsår</th> <td>1800-tal</td> </tr>
-          {% elsif page.anno == 9999 %}
-          <tr> <th>Byggnadsår</th> <td>-</td> </tr>
-          {% else %}
-          <tr> <th>Byggnadsår</th> <td>{{ page.anno }}</td> </tr>
-          {% endif %}
-          <tr> <th>Uppfört av</th> <td>{{ page.builtby }}</td> </tr>
-          <tr> <th>Skyddsklass</th> <td>{{ page.skydd }}</td> </tr>
-          <tr> <th>Brandförsäkr.</th> <td>{{ page.brandforsakring }}</td> </tr>
-          {% for item in page.address %}
-          <tr> <th>Adress <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
-          {% endfor %}
-          {% if page.instagram %}
-          <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
-          {% endif %}
-          {% if page.facebook %}
-          <tr> <th>Facebook <img src="/img/facebook.png" width="20px"></th> <td><a href="https://www.facebook.com/{{ page.facebook }}"> {{ page.facebook }}</a></td> </tr>
-          {% endif %}
-          {% if page.www %}
-          <tr> <th>www <img src="/img/www.gif" width="20px"></th> <td><a href="{{ page.www }}"> {{ page.www }}</a></td> </tr>
-          {% endif %}
-        </table>
+      <table>
+        <tr> <th>Fastighets nr.</th> <td>{{ page.fastighetsnr }}</td> </tr>
+        <tr> <th>Gårdsnr. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
+        {% if page.anno == 1899.9 %}
+        <tr> <th>Byggnadsår</th> <td>1800-tal</td> </tr>
+        {% elsif page.anno == 9999 %}
+        <tr> <th>Byggnadsår</th> <td>-</td> </tr>
+        {% else %}
+        <tr> <th>Byggnadsår</th> <td>{{ page.anno }}</td> </tr>
+        {% endif %}
+        <tr> <th>Uppfört av</th> <td>{{ page.builtby }}</td> </tr>
+        <tr> <th>Skyddsklass</th> <td>{{ page.skydd }}</td> </tr>
+        <tr> <th>Brandförsäkr.</th> <td>{{ page.brandforsakring }}</td> </tr>
+        {% for item in page.address %}
+        <tr> <th>Adress <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
+        {% endfor %}
+        {% if page.instagram %}
+        <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
+        {% endif %}
+        {% if page.facebook %}
+        <tr> <th>Facebook <img src="/img/facebook.png" width="20px"></th> <td><a href="https://www.facebook.com/{{ page.facebook }}"> {{ page.facebook }}</a></td> </tr>
+        {% endif %}
+        {% if page.www %}
+        <tr> <th>www <img src="/img/www.gif" width="20px"></th> <td><a href="{{ page.www }}"> {{ page.www }}</a></td> </tr>
+        {% endif %}
+      </table>
       {% else %}
-        <table>
-          <tr> <th>Kiinteistö nro.</th> <td>{{ page.fastighetsnr }}</td> </tr>
-          <tr> <th>Talon nro. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
-          {% if page.anno == 1899.9 %}
-          <tr> <th>Rakennusvuosi</th> <td>1800-luku</td> </tr>
-          {% elsif page.anno == 9999 %}
-          <tr> <th>Rakennusvuosi</th> <td>-</td> </tr>
-          {% else %}
-          <tr> <th>Rakennusvuosi</th> <td>{{ page.anno }}</td> </tr>
-          {% endif %}
-          <tr> <th>Rakentanut</th> <td>{{ page.builtby }}</td> </tr>
-          <tr> <th>Suojelu</th> <td>{{ page.skydd }}</td> </tr>
-          <tr> <th>Palovakuutusk.</th> <td>{{ page.brandforsakring }}</td> </tr>
-          {% for item in page.address %}
-          <tr> <th>Osoite <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
-          {% endfor %}
-          {% if page.instagram %}
-          <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
-          {% endif %}
-          {% if page.facebook %}
-          <tr> <th>Facebook <img src="/img/facebook.png" width="20px"></th> <td><a href="https://www.facebook.com/{{ page.facebook }}"> {{ page.facebook }}</a></td> </tr>
-          {% endif %}
-          {% if page.www %}
-          <tr> <th>www <img src="/img/www.gif" width="20px"></th> <td><a href="{{ page.www }}"> {{ page.www }}</a></td> </tr>
-          {% endif %}
-        </table>
-       {% endif %}
-      </td>
-    </tr>
-  </table>
+      <table>
+        <tr> <th>Kiinteistö nro.</th> <td>{{ page.fastighetsnr }}</td> </tr>
+        <tr> <th>Talon nro. 1842</th> <td>{{ page.stadsdel }} / {{ page.gardsnr1842 }}</td> </tr>
+        {% if page.anno == 1899.9 %}
+        <tr> <th>Rakennusvuosi</th> <td>1800-luku</td> </tr>
+        {% elsif page.anno == 9999 %}
+        <tr> <th>Rakennusvuosi</th> <td>-</td> </tr>
+        {% else %}
+        <tr> <th>Rakennusvuosi</th> <td>{{ page.anno }}</td> </tr>
+        {% endif %}
+        <tr> <th>Rakentanut</th> <td>{{ page.builtby }}</td> </tr>
+        <tr> <th>Suojelu</th> <td>{{ page.skydd }}</td> </tr>
+        <tr> <th>Palovakuutusk.</th> <td>{{ page.brandforsakring }}</td> </tr>
+        {% for item in page.address %}
+        <tr> <th>Osoite <img src="/img/googlemaps.png"></th> <td><a href="https://maps.google.com/?q={{ item.street }} {{ item.num }}, Kristinestad" target="blank_"> {{ item.street }} {{ item.num }}</a> </td> </tr>
+        {% endfor %}
+        {% if page.instagram %}
+        <tr> <th>Instagram <img src="/img/glyph-logo_May2016.png" width="20px"></th> <td><a href="https://www.instagram.com/{{ page.instagram }}"> {{ page.instagram }}</a></td> </tr>
+        {% endif %}
+        {% if page.facebook %}
+        <tr> <th>Facebook <img src="/img/facebook.png" width="20px"></th> <td><a href="https://www.facebook.com/{{ page.facebook }}"> {{ page.facebook }}</a></td> </tr>
+        {% endif %}
+        {% if page.www %}
+        <tr> <th>www <img src="/img/www.gif" width="20px"></th> <td><a href="{{ page.www }}"> {{ page.www }}</a></td> </tr>
+        {% endif %}
+      </table>
+      {% endif %}
+    </td>
+  </tr>
+</table>
 
-      {{ content }}
+{{ content }}
 
 </div>
 </body>
