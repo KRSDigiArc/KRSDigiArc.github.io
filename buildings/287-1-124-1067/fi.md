@@ -40,10 +40,10 @@ Talon rakennutti laivuri kapteeni [Israel Holmudd](/people/holmudd_israel/fi) 18
   <tr>
     <td><table>
       <tr><td><b>1844</b></td></tr>
-      <tr><td>Päärakennus laajennetaan. Luultavasti eteläinen osa korotetaan ja talo laajennetaan pohjoiseen. Sisäkattoa ilmeisesti myös korotetaan eteläpäässä. Pakarintupa pystyteään.</td></tr>
+      <tr><td>Päärakennus laajennetaan. Luultavasti eteläinen osa korotetaan ja talo laajennetaan pohjoiseen. Sisäkattoa ilmeisesti myös korotetaan eteläpäässä. Pakarintupa pystyteään. Lyijykynäpiirustus löytyi rossipohjasta. Talo on kuvassa vähän lyhyt, mutta voidaan olettaa että tämä talo kyseessä. Tässä näkyy kuisti joka on talon syvennyksessä. </td></tr>
     </table></td>
     <td>
-      Piirustus puuttuu.
+        <a href="blyertsritning.png" rel="lightbox"><img src="blyertsritning.png" title="blyerts" width="200px"></a>
     </td>
   </tr>
   <tr>

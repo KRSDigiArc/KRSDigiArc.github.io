@@ -52,10 +52,10 @@ Byggnaderna som år 1967
   <tr>
     <td><table>
       <tr><td><b>1844</b></td></tr>
-      <tr><td>Huvudbyggnaden byggs ut. Antagligen förhöjs den södra delen och huset förlängs norrut. Innertaket i södra delen förhöjs antagligen också. Bagarstugan kommer till.</td></tr>
+      <tr><td>Huvudbyggnaden byggs ut. Antagligen förhöjs den södra delen och huset förlängs norrut. Innertaket i södra delen förhöjs antagligen också. Bagarstugan kommer till. Blyertsteckningen hittades i trossbotten. Huset är lite kort i teckningen, men torde röra sig om detta hus. Verandan i fördjupning i huset syns på bild, som byggs in 1935</td></tr>
     </table></td>
     <td>
-      Ritning saknas.
+        <a href="blyertsritning.jpg" rel="lightbox"><img src="blyertsritning.jpg" title="blyerts" width="200px"></a>
     </td>
   </tr>
   <tr>
