@@ -82,6 +82,18 @@ Byggnaderna som år 1967
 ## Människor och händelser
 Israel och Maria hade en dotter Emelia (enda dotterna av tre som överlever tre års ålder) och pigan Maria samt senare drängen Carl. Maria blev änka 1862, kort innan tog man in de första hyresgästerna på gården. I medlet av 1870 övergår gården till Weckströmska släkten och antalet hyresgäster stiger kraftigt i det stora huset och bagarstugan, bl.a. Fiskaren Ingström och förre brandvakten Karl Their som första. Fyra generationer Weckström kom att bo i huset, bl.a. Åke Weckström som köpte ut sina syskon ur gården. Åke blev även ägare till Södra Bryggeriet, <a href="/buildings/287-1-123-6/sv.html">gård 37</a> vid Hållfastskagatan och villan <a href="http://www.museiportalosterbotten.fi/museum-a-o-en/museum/5-carlsro-museum">Carlso</a> som han gjorde till museum.
 
+<table>
+  <tr>
+    <td>
+Ferrotyp hittad i trossbotten på okänd person. Ferrotyper användes från 1853 till 1930-tal, ifall bilden föreställde en av ägarna av gårde kunde det möjligtvis röra sig om t.ex. Israel själv, eller Karl Weckström.
+   </td>
+   <td>
+   <a href="ferrotyp.png" rel="lightbox"><img src="ferrotyp.png" title="ferrotyp" width="200px"></a>
+   </td>
+   </tr>
+</table>
+
+
 ### Mantalslängder
 
 <table>

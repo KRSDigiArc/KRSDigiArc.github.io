@@ -82,6 +82,13 @@ Sama kuin vuonna 1967
 # Ihmisiä ja tapahtumia
 Israelilla ja Marialla oli yksi tytär Emelie (ainoa kolmesta joka selvisi aikuiseksi) sekä piika Maria ja myöhemmin renki Carl. Maria jää leskeksi 1862. Vähän ennen sitä taloon otetaan ensimmäiset vuokralaiset. 1870 luvun puolessavälissä talo siirtyy Weckströmin suvun haltuun ja vuokralaisten määrä kasvaa rajusti suuressa talossa sekä pakarintuvassa, mm. kalastaja Ingström ja entinen palovahti Karl Their ensimmäisten joukossa. Neljä sukupolvea Weckströmeitä tulee asumaan talossa, mm. Åke Weckström joka ostaa sisarustensa osuudet talosta. Åke ostaa myöhemmin myös eteläisen panimon, <a href="/buildings/287-1-123-6/fi.html">tontin nro. 37</a> Hållfastinkadulla sekä <a href="http://www.museiportalosterbotten.fi/museum-a-o-en/museum/5-carlsro-museum">Carlson huvilan</a> josta hän tekee museon.
 
+<table>
+  <tr>
+    <td>Ferrotyyppi tuntemattomasta henkilöstä, löydetty rossipohjasta. Ferrotyypit tulivat markkinoille 1853 ja käytettiin 1930-luvulle, jospa kuva esittäisi jotain talon omistaa, voisi tämä olla esim. Israel Holmudd itse, tai Karl Weckström.</td>
+    <td><a href="ferrotyp.png" rel="lightbox"><img src="ferrotyp.png" title="ferrotyp" width="200px"></a></td>
+  </tr>
+</table>
+
 ## Henkikirjoja
 
 <table>
