@@ -29,40 +29,34 @@ Rakennuksen vuoraus on uusittu 1900-luvun alussa aika ikävän näköiseksi. Nyk
 on vaalean harmaa.
 
 ## Kivijalka
-on harmaa kivikvaadereista, jotka kylmä:nuurauksella on lii-
-tetty toisiinsa. Kvaa1erien koko on (100-230 )x35x55 c:n. It. Pitkä-
-kar'iun fasadissa kivijalan korkeus on 140-160 cm. Kivijalassa on
-kolme n.25x20 cm suurui3ta tuuletusaukkoa. Samoin katufasadin ki-
-vijalassa on oviaukko I-kerrokses3a olevaan myynälään.
+on harmaa kivikvaadereista, jotka kylmämuurauksella on liitetty toisiinsa.
+Kvaaderien koko on (100-230 )x35x55 cm. It. Pitkänkadun fasadissa
+kivijalan korkeus on 140-160 cm. Kivijalassa on kolme n.25x20 cm suuruista
+tuuletusaukkoa. Samoin katufasadin kivijalassa on oviaukko I-kerroksessa olevaan myynälään.
 
-Pihan puolella Kivijalka on eteläo3assa kvaadereista (2 kpl) ja
-muualla lohk~~j~ lu~~~~nkivistä muurattu. Kuistin mole~min puolin
-on portaat kellareihin. Pohjoispuoleinen kellari on al~uperäinen,
+Pihan puolella Kivijalka on eteläosassa kvaadereista (2 kpl) ja
+muualla lohko- ja luonnonkivistä muurattu. Kuistin molemmin puolin
+on portaat kellareihin. Pohjoispuoleinen kellari on alkuperäinen,
 etelänpuoleinen on uusi.
 Eteläpäädyssä kivijalan korkeus on 100-150 cm, se on kvaadereista
-kuten :ny~s pohjoispäädyssä. Täällä kivijalka on roiskerapattu.
+kuten myös pohjoispäädyssä. Täällä kivijalka on roiskerapattu.
 
 ## Kellarit
-Rakennuksen pohjoisosassa oleva kellari on alkuperäinen. Se on tii-
-listä holvattu ja rapattu. Kellarissa on laakea tynnyriholvi. Kel-
-larin koko on 440x370x200 cm. Katossa kaksi lihanriiputuskoukkua I""
-_ c --. ,·'
-ja itäseinässä on nelikulmainen syvennys.
-Eteläpuoleinen kellari on tehty 1900-luvulla keskuslämmityksen pan-
-nuhuoneeksi.
+Rakennuksen pohjoisosassa oleva kellari on alkuperäinen. Se on tiilistä
+holvattu ja rapattu. Kellarissa on laakea tynnyriholvi. Kellarin koko on
+440x370x200 cm. Katossa kaksi lihanriiputuskoukkua ja itäseinässä on nelikulmainen syvennys.
+Eteläpuoleinen kellari on tehty 1900-luvulla keskuslämmityksen pannuhuoneeksi.
 
 ## Fasadit
-Fasadit on uuielleenvuorattu 1900-luvun alussa, jolloin my~s ny~;:yi­
-nen satulakatto tehtiin. Vanhasta valokuvasta päätellen (I1yllinen
-Kristiinankaupunki s.47) lienee rakennug 1800-luvulla ollut valke-
-aksi ~~p~ttu. Toisaalta eteläpäädyssä oli mansardikaton aikainen
-vaakalaudoitus.
+Fasadit on uudelleenvuorattu 1900-luvun alussa, jolloin myös nykyinen
+satulakatto tehtiin. Vanhasta valokuvasta päätellen (Idyllinen
+Kristiinankaupunki s.47) lienee rakennus 1800-luvulla ollut valkeaksi rapattu.
+Toisaalta eteläpäädyssä oli mansardikaton aikainen vaakalaudoitus.
 
 ## It.Pitkäkadun fasadi
-jakaantuu vertikaalisesti neljään vyöhykkee-
-seen. Ali·n:nan rnuodos taa 90 C'TI. korkea pys tylaudoi tettu vyöhyke, joka
-ulottuu viistosta vesilistasta il:cl~unoi tten alapuolelle. Toinen vyö-
-hyke on vaakalau1oitettu ja ulottuu toisen kerroksen ikkunoitten
+jakaantuu vertikaalisesti neljään vyöhykkeeseen. Alimman muodostaa 90 cm korkea pystylaudoitettu vyöhyke, joka
+ulottuu viistosta vesilistasta ikkunoitten alapuolelle. Toinen vyöhyke
+on vaakalaudoitettu ja ulottuu toisen kerroksen ikkunoitten
 yläreunan tasalle. Kolmas vyöhyke on pystylaudoitettu kuten ensimmäinenkin.
 Neljäs, arkitraavivyöhyke on vaakalaudoitettu.
 Ikkuna-akseleita fasadissa on 7. Pohj.lukien 1,2 ja 3. ikkuna ovat
@@ -70,25 +64,25 @@ säännöllisin etäisyyksin toisistaan ja 4 seuraavaa muodostaa kaksi
 kahden ikkunan ryhmää . Alakerrassa on 5.ikkuna-akselissa ovi ja
 eteläisimmän ikkunaparin keskellä 1 ikkuna. Ullakkoikkunoita on
 arkitraavissa akseleilla 7.
-Huoneikkunat ovat kooltaan   .Ne ovat 4-ruutuisia ja karmit
+Huoneikkunat ovat kooltaan   . Ne ovat 4-ruutuisia ja karmit
 muodostavat latinalaisen ristin. Ullakoikkunat ovat 2-ruutuisia.
 Kaikki fasadin ikkunankehykset ovat sileää lautaa.
 Fasadin kolme alinta vyöhykettä jakaa pystylaudat viiteen vertikaalivyöhykeeseen.
 Onko niissä mahdollisesti pitkänurkat en saanut varmuutta.
 
 ## Pohjoispääty
-On vaakalau·'loitettu n. 9cm leveällä uurretulla lau'lal-
-la. Keskellä satulakaton kol~iopäätyä on 6-ruutuinen ikkuna, jossa
-on 1800-luvun ~culmaraudat.
+On vaakalaudoitettu n. 9cm leveällä uurretulla laudalla.
+Keskellä satulakaton kolmiopäätyä on 6-ruutuinen ikkuna, jossa
+on 1800-luvun kulmaraudat.
 
 ## Eteläpääty
-on vaakalau:ioitettu n.18-19 cm leveällä uurretulla lau-
-dalla, joasa uurros on suora~ulmainen. Tässä päärlys s ä vuoraus on
-muita vanhempi. Ylhäällä ~ato~rajassa on vuorauksessa kulmissa
+on vaakalaudoitettu n.18-19 cm leveällä uurretulla laudalla, jossa
+uurros on suorakulmainen. Tässä päädyssä vuoraus on
+muita vanhempi. Ylhäällä katonrajassa on vuorauksessa kulmissa
 sauma, joka osoittaa ent. mansardikaton alalappeen paikan.
-Päädyssä on keskellä ulla~ckoka:narin ikkuna sekä I-kerroksessa kes-
-kiakselin itäpuolella sekunnaari ikkuna. Ik~unan~ehykset ovat si-
-leää lautaa. Ulla:c'-coikkunan lculmarauiat ovat 1800-luvun tyyppiä.
+Päädyssä on keskellä ullakokamarin ikkuna sekä I-kerroksessa keskiakselin
+itäpuolella sekundaari ikkuna. Ikkunankehykset ovat sileää lautaa.
+Ullakoikkunan kulmaraudat ovat 1800-luvun tyyppiä.
 
 ## Pihafasadia
 hallitsee keskellä lautarakenteinen, 5-kulmainen kuisti.
